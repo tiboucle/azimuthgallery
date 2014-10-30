@@ -1,0 +1,2929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arthemia Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-22 14:25+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Michael Jubel Hutagalung <michaeljubel@gmail.com>\n"
+"Language-Team: Colorlabs Project <sales@colorlabsproject.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: c:/wamp/www/wp-content/themes/arthemia-premium\n"
+"X-Textdomain-Support: yes"
+
+#: functions/admin-functions.php:2476
+#@ colabsthemes
+msgid "Home"
+msgstr "Utama"
+
+#: archive.php:41
+#: search.php:32
+#: single.php:18
+#: template-blog.php:45
+#@ colabsthemes
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: page.php:44
+#: search.php:51
+#@ colabsthemes
+msgid "No posts found. Try a different search?"
+msgstr "Artikel tidak ditemukan. Coba kata kunci lain?"
+
+#: functions/images/colorpicker/comments.php:44
+#@ default
+msgid "Leave a comment"
+msgstr "Tinggalkan komentar"
+
+#: includes/theme-comments.php:13
+#@ colabsthemes
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang menunggu moderasi."
+
+#: comments.php:29
+#: functions/images/colorpicker/comments.php:20
+#@ colabsthemes
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: functions/admin-shortcodes.php:1572
+#: jigoshop/single-product-reviews.php:94
+#: template-contact.php:139
+#: woocommerce/single-product-reviews.php:79
+#@ colabsthemes
+#@ default
+msgid "Name"
+msgstr "Nama"
+
+#: includes/theme-functions.php:586
+#@ default
+msgid "Search"
+msgstr "Cari"
+
+#: functions/admin-functions.php:1435
+#@ colabsthemes
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: comments.php:53
+#: functions/images/colorpicker/comments.php:46
+#@ colabsthemes
+#@ default
+msgid "Post Comment"
+msgstr "Poskan Komentar"
+
+#: functions/admin-backup.php:73
+#@ colabsthemes
+msgid "ColorLabs Import/Export Settings"
+msgstr "Settingan ColorLabs Import/Export "
+
+#: functions/admin-backup.php:73
+#@ colabsthemes
+msgid "Import/Export Settings"
+msgstr "Settingan Import/Export"
+
+#: functions/admin-backup.php:132
+#@ colabsthemes
+msgid "Import Settings"
+msgstr "Settingan Import"
+
+#: functions/admin-backup.php:134
+#@ colabsthemes
+msgid "If you have settings in a backup file on your computer, the ColorLabs Framework can import those into this site. To get started, upload your backup file to import from below."
+msgstr "Jika kamu punya settingan dalam sebuah backup/cadangan file dalam komputer kamu, the ColorLabs Framework dapat mengimportnya ke situs ini. Untuk memulainya, upload backupan file ketersebut dibawah ini "
+
+#: functions/admin-backup.php:139
+#, php-format
+#@ colabsthemes
+msgid "Upload File: (Maximum Size: %s)"
+msgstr "Upload Data: (Ukuran maksimal: %s)"
+
+#: functions/admin-backup.php:142
+#@ colabsthemes
+msgid "Upload File and Import"
+msgstr "Upload Data dan Import"
+
+#: functions/admin-backup.php:151
+#@ colabsthemes
+msgid "Export Settings"
+msgstr "Settingan Export"
+
+#: functions/admin-backup.php:153
+#@ colabsthemes
+msgid "When you click the button below, the ColorLabs Framework will create a text file for you to save to your computer."
+msgstr "Ketika kamu klik tombol dibawah ini, the ColorLabs Framework akan membuat sebuah file text untuk kamu simpan di komputer."
+
+#: functions/admin-backup.php:154
+#, php-format
+#@ colabsthemes
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings\"."
+msgstr "Text File ini dapat digunakan untuk mengembalikan settingan kamu pada  \"%s\", atau untuk memudahkan penginstallan pada website lain dengan settingan yang sama\"."
+
+#: functions/admin-backup.php:158
+#@ colabsthemes
+msgid "All Settings"
+msgstr "Semua Settingan"
+
+#: functions/admin-backup.php:159
+#@ colabsthemes
+msgid "This will contain all of the options listed below."
+msgstr "Ini akan berisi semua opsi di bawah ini."
+
+#: functions/admin-backup.php:161
+#: functions/admin-functions.php:2941
+#: functions/admin-interface-functions.php:52
+#@ colabsthemes
+msgid "Theme Options"
+msgstr "Opsi-opsi Tema"
+
+#: functions/admin-backup.php:163
+#: functions/admin-interface-functions.php:62
+#@ colabsthemes
+msgid "SEO Settings"
+msgstr "Settingan SEO"
+
+#: functions/admin-backup.php:165
+#: functions/admin-functions.php:2945
+#@ colabsthemes
+msgid "Sidebar Manager"
+msgstr "Pengaturan Sidebar"
+
+#: functions/admin-backup.php:165
+#@ colabsthemes
+msgid "This will contain only the custom sidebars themselves and not the widgets within them"
+msgstr "Ini akan berisi hanya sidebars kustom sendiri dan bukan widget di dalamnya"
+
+#: functions/admin-backup.php:167
+#: functions/admin-framework-settings.php:199
+#: functions/admin-functions.php:2956
+#@ colabsthemes
+#@ default
+msgid "Framework Settings"
+msgstr "Settingan Framework"
+
+#: functions/admin-backup.php:170
+#@ colabsthemes
+msgid "Download Export File"
+msgstr "Unduh Export Data"
+
+#: functions/admin-backup.php:211
+#@ colabsthemes
+msgid "Welcome to the ColorLabs Import/Export Manager."
+msgstr "Selamat Datang di Pengaturan ColorLabs Import/Export."
+
+#: functions/admin-backup.php:212
+#@ colabsthemes
+msgid "Here are a few notes on using this screen."
+msgstr "Berikut adalah beberapa catatan tentang cara menggunakan layar ini."
+
+#: functions/admin-backup.php:213
+#@ colabsthemes
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr "Manajer cadangan memungkinkan Anda untuk backup atau restore \"Opsi-opsi Tema\" dan pengaturan lainnya ke atau dari sebuah file teks."
+
+#: functions/admin-backup.php:214
+#@ colabsthemes
+msgid "To create a backup, simply select the setting type you'd like to backup (or \"All Settings\") and hit the \"Download Export File\" button."
+msgstr "Untuk membuat sebuah backupan, cukup pilih jenis setelan yang ingin di backup (atau \"Semua Settingan\") dan tekan tombol \"Unduh Ekport File\"."
+
+#: functions/admin-backup.php:215
+#@ colabsthemes
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr "Untuk mengembalikan pengaturan Anda dari cadangan/backupan, browsing komputer Anda untuk file (di bawah \"Pengaturan Impor \") dan tekan tombol \"Upload File dan Impor\". Ini hanya akan mengembalikan pengaturan yang telah berubah sejak dibackup."
+
+#: functions/admin-backup.php:217
+#@ colabsthemes
+msgid "Please note that only valid backup files generated through the ColorLabs Import/Export Manager should be imported."
+msgstr "Perlu diketahui bahwa hanya file cadangan yang valid yang dihasilkan melalui Manager Impor / Ekspor ColorLabs harus diimpor."
+
+#: functions/admin-backup.php:219
+#@ colabsthemes
+msgid "Looking for assistance?"
+msgstr "Mencari Bantuan? "
+
+#: functions/admin-backup.php:220
+#, php-format
+#@ colabsthemes
+msgid "Please post your query on the %sColorLabs Support Forums%s where we will do our best to assist you further."
+msgstr "Silahkan posting pertanyaan Anda pada %sColorLabs Support Forum%s dimana kami akan melakukan yang terbaik untuk membantu Anda lebih lanjut."
+
+#: functions/admin-backup.php:240
+#, php-format
+#@ colabsthemes
+msgid "Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr "Harap diperhatikan bahwa manajer backup hanya mengatur settingan dan bukan konten. Untuk membackup konten Anda, silakan gunakan %sWordPress Ekspor Tool%d."
+
+#: functions/admin-backup.php:243
+#@ colabsthemes
+msgid "There was a problem importing your settings. Please Try again."
+msgstr "Ada masalah dengan proses mengimpor pengaturan Anda. Silakan coba lagi."
+
+#: functions/admin-backup.php:245
+#@ colabsthemes
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr "Ada masalah mengexport pengaturan Anda. Silakan coba lagi."
+
+#: functions/admin-backup.php:247
+#@ colabsthemes
+msgid "The import file you've provided is invalid. Please try again."
+msgstr "File impor Anda  tidak valid. Silakan coba lagi."
+
+#: functions/admin-backup.php:249
+#, php-format
+#@ colabsthemes
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr "Pengaturan berhasil diimpor. | Kembali ke %sOpsi Tema%s"
+
+#: functions/admin-custom.php:507
+#@ colabsthemes
+msgid " Custom Settings"
+msgstr "kustom Pengaturan"
+
+#: functions/admin-dashboard.php:31
+#@ colabsthemes
+msgid "Dashboard"
+msgstr ""
+
+#: functions/admin-dashboard.php:45
+#@ colabsthemes
+msgid "Info"
+msgstr "Informasi"
+
+#: functions/admin-dashboard.php:51
+#@ colabsthemes
+msgid "Product Version"
+msgstr "Versi Produk"
+
+#: functions/admin-dashboard.php:52
+#@ colabsthemes
+msgid "Framework Version"
+msgstr "Versi Framework"
+
+#: functions/admin-dashboard.php:55
+#@ colabsthemes
+msgid "Product Support"
+msgstr "Produk Suport"
+
+#: functions/admin-dashboard.php:55
+#@ colabsthemes
+msgid "Submit a Support Ticket"
+msgstr "Kirim Tiket Support"
+
+#: functions/admin-dashboard.php:55
+#@ colabsthemes
+msgid "Theme Documentation"
+msgstr "Dukumentasi Tema"
+
+#: functions/admin-dashboard.php:69
+#@ colabsthemes
+msgid "ColorLabs News"
+msgstr "Berita Colorlabs"
+
+#: functions/admin-dashboard.php:90
+#@ colabsthemes
+msgid "ColorLabs Tweets"
+msgstr ""
+
+#: functions/admin-dashboard.php:106
+#@ colabsthemes
+msgid "ColorLabs Support"
+msgstr "Colorlabs Bantuan"
+
+#: functions/admin-editor.php:29
+#: functions/admin-editor.php:31
+#: functions/admin-editor.php:33
+#: functions/admin-editor.php:35
+#: functions/admin-editor.php:182
+#@ colabsthemes
+msgid "Attention!"
+msgstr "Perhatian!"
+
+#: functions/admin-editor.php:29
+#@ colabsthemes
+msgid "For security reasons, the file you are attempting to edit cannot be modified via this screen."
+msgstr "Untuk alasan keamanan, file yang Anda mencoba untuk mengedit tidak dapat dimodifikasi melalui layar ini."
+
+#: functions/admin-editor.php:31
+#@ colabsthemes
+msgid "Your <code>custom/</code> directory does not appear to exist. Have you remembered to rename <code>/custom-sample</code>?"
+msgstr "Direktori <code>Kustom Anda/</code> tampaknya tidak ada. Apakah Anda ingat untuk mengubah nama <code>/custom-sampel</code>?"
+
+#: functions/admin-editor.php:33
+#@ colabsthemes
+msgid "The file you are attempting does not appear to exist."
+msgstr "File yang Anda coba tampilkan tidak ada."
+
+#: functions/admin-editor.php:35
+#, php-format
+#@ colabsthemes
+msgid "Your <code>/custom/%s</code> file is not writable by the server, and in order to modify the file via the admin panel, Backbone needs to be able to write to this file. All you have to do is set this file&#8217;s permissions to 666, and you&#8217;ll be good to go."
+msgstr "File <code>/custom/%s</ code> Anda tidak dapat ditulis oleh server, dan untuk memodifikasi file melalui panel admin, Backbone harus dapat menulis ke berkas ini. Yang harus Anda lakukan adalah mengatur hak akses file ini untuk 666, dan Anda akan baik untuk pergi."
+
+#: functions/admin-editor.php:47
+#@ colabsthemes
+msgid "You don&#8217;t have admin privileges to access theme options."
+msgstr "Anda tidak memiliki hak ADMIN istimewa untuk akses pemilihan tema."
+
+#: functions/admin-editor.php:58
+#@ colabsthemes
+msgid "You have attempted to modify an ineligible file. Only files within the ColorLabs <code>/custom</code> folder may be modified via this interface. Thank you."
+msgstr "Anda telah mencoba memodifikasi sebuah file yg tidak memenuhi syarat. File hanya dalam ColorLabs <code>/kustom</ code> Folder dapat dimodifikasi melalui interface ini. Terima kasih."
+
+#: functions/admin-editor.php:128
+#, php-format
+#@ colabsthemes
+msgid "Currently editing: <code>%s</code>"
+msgstr "Saat Mengedit: <code>%s</code>"
+
+#: functions/admin-editor.php:138
+#@ colabsthemes
+msgid "Edit selected file"
+msgstr "Edit file terpilih"
+
+#: functions/admin-editor.php:143
+#@ colabsthemes
+msgid "<strong>Note:</strong> If you make a mistake in your code while modifying a <acronym title=\"PHP: Hypertext Preprocessor\">PHP</acronym> file, saving this page <em>may</em> result your site becoming temporarily unusable. Prior to editing such files, be sure to have access to the file via <acronym title=\"File Transfer Protocol\">FTP</acronym> or other means so that you can correct the error."
+msgstr "<strong>Catatan:</strong> Jika anda membuat sebuah kesalahan dalam koding modifikasi sementara file <acronym title=\"PHP: Hypertext Preprocessor\">PHP</acronym>  simpan page ini <em>Mungkin</em> mengakibatkan situs Anda menjadi sementara tidak dapat digunakan. Sebelum mengedit file tersebut, pastikan untuk memiliki akses ke file melalui <acronym title=\"File Transfer Protocol\">FTP</acronym> atau cara lain sehingga Anda dapat memperbaiki kesalahan."
+
+#: functions/admin-editor.php:160
+#: functions/admin-editor.php:205
+#@ colabsthemes
+msgid "Color Reference"
+msgstr "Referensi Warna"
+
+#: functions/admin-editor.php:182
+#@ colabsthemes
+msgid "In order to edit your custom files, you&#8217;ll need to change the name of your <code>custom-sample</code> folder to <code>custom</code>."
+msgstr "Untuk mengedit kustom file anda, anda akan perlu untuk mengganti nama dari Foder <code>custom-sample</code> Anda menjadi <code>custom</code>."
+
+#: functions/admin-editor.php:206
+#@ colabsthemes
+msgid "Color reference for custom file editor"
+msgstr "Referensi Warna untuk Editor file kustom"
+
+#: functions/admin-functions.php:1436
+#@ colabsthemes
+msgid "Author Archives"
+msgstr "Arsip-arsip Penulis"
+
+#: functions/admin-functions.php:1439
+#@ colabsthemes
+msgid "Category Archive"
+msgstr "Kategori Arsip"
+
+#: functions/admin-functions.php:1440
+#: functions/admin-functions.php:1445
+#@ colabsthemes
+msgid " Archive"
+msgstr "Arsip"
+
+#: functions/admin-functions.php:1441
+#@ colabsthemes
+msgid "Daily Archive"
+msgstr "Arsip Harian"
+
+#: functions/admin-functions.php:1442
+#@ colabsthemes
+msgid "Monthly Archive"
+msgstr "Arsip Bulanan"
+
+#: functions/admin-functions.php:1443
+#@ colabsthemes
+msgid "Yearly Archive"
+msgstr "Arsip Tahunan"
+
+#: functions/admin-functions.php:1444
+#@ colabsthemes
+msgid "Tag Archive"
+msgstr "Arsip Tag"
+
+#: functions/admin-functions.php:2354
+#@ colabsthemes
+msgid "&laquo; Previous"
+msgstr "&laquo; Sebelumnya"
+
+#: functions/admin-functions.php:2355
+#@ colabsthemes
+msgid "Next &raquo;"
+msgstr "Berikutnya &raquo;"
+
+#: functions/admin-functions.php:2473
+#@ colabsthemes
+msgid "You are here:"
+msgstr "Anda Disini"
+
+#: functions/admin-functions.php:2641
+#@ colabsthemes
+msgid "g:i a"
+msgstr ""
+
+#: functions/admin-functions.php:2644
+#, php-format
+#@ colabsthemes
+msgid "Minute %1$s"
+msgstr "Menit %1$s"
+
+#: functions/admin-functions.php:2644
+#@ colabsthemes
+msgid "i"
+msgstr ""
+
+#: functions/admin-functions.php:2647
+#@ colabsthemes
+msgid "g a"
+msgstr ""
+
+#: functions/admin-functions.php:2658
+#: functions/admin-functions.php:2664
+#: functions/admin-functions.php:2669
+#: functions/admin-functions.php:2674
+#@ colabsthemes
+msgid "Y"
+msgstr ""
+
+#: functions/admin-functions.php:2659
+#: functions/admin-functions.php:2670
+#@ colabsthemes
+msgid "F"
+msgstr ""
+
+#: functions/admin-functions.php:2660
+#@ colabsthemes
+msgid "j"
+msgstr ""
+
+#: functions/admin-functions.php:2665
+#, php-format
+#@ colabsthemes
+msgid "Week %1$s"
+msgstr "Minggu %1$s"
+
+#: functions/admin-functions.php:2665
+#@ colabsthemes
+msgid "W"
+msgstr ""
+
+#: functions/admin-functions.php:2681
+#, php-format
+#@ colabsthemes
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Hasil Pencarian untuk &quot;%1$s&quot;"
+
+#: functions/admin-functions.php:2685
+#@ colabsthemes
+msgid "404 Not Found"
+msgstr "404 Tidak Ditemukan"
+
+#: functions/admin-functions.php:2930
+#@ colabsthemes
+msgid "ColorLabs Project"
+msgstr ""
+
+#: functions/admin-functions.php:2950
+#@ colabsthemes
+msgid "SEO Manager"
+msgstr "Pengaturan SEO"
+
+#: functions/admin-functions.php:2959
+#@ colabsthemes
+msgid "Update Framework"
+msgstr ""
+
+#: functions/admin-interface-functions.php:72
+#@ colabsthemes
+msgid "Layout Settings"
+msgstr "Pengaturan Tampilan"
+
+#: functions/admin-interface-functions.php:80
+#@ colabsthemes
+msgid "Updates"
+msgstr ""
+
+#: functions/admin-interface.php:197
+#@ colabsthemes
+msgid "Custom File Editor"
+msgstr "Editor File Kustom"
+
+#: functions/admin-interface.php:240
+#@ colabsthemes
+msgid "Readme"
+msgstr "Baca Saya"
+
+#: functions/admin-interface.php:399
+#@ colabsthemes
+msgid "Framework"
+msgstr ""
+
+#: functions/admin-interface.php:1674
+#@ colabsthemes
+msgid "New Version"
+msgstr "Versi Terbaru"
+
+#: functions/admin-interface.php:1675
+#@ colabsthemes
+msgid "New Feature"
+msgstr "Fitur Baru"
+
+#: functions/admin-interface.php:1676
+#@ colabsthemes
+msgid "Bugfix"
+msgstr "Perbaikan Error"
+
+#: functions/admin-interface.php:1696
+#@ colabsthemes
+msgid "Theme update is available"
+msgstr "Update Tema Telah Tersedia"
+
+#: functions/admin-interface.php:1696
+#@ colabsthemes
+msgid "Get the new version"
+msgstr "Dapatkan Versi Terbaru"
+
+#: functions/admin-interface.php:1696
+#, php-format
+#@ colabsthemes
+msgid "Update Type: %s"
+msgstr ""
+
+#: functions/admin-interface.php:1741
+#, php-format
+#@ colabsthemes
+msgid "Theme update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr "Update Tema Telah Tersedia (v%s). %sUnduh Versi Terbaru%s (%sLihat Changelog%s)"
+
+#: functions/admin-medialibrary-uploader.php:66
+#@ default
+msgid "CoLabsFramework Internal Container"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:192
+#@ default
+msgid "Upload"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:229
+#@ colabsthemes
+msgid "View File"
+msgstr "Lihat Berkas"
+
+#: functions/admin-medialibrary-uploader.php:422
+#@ colabsthemes
+msgid "Gallery"
+msgstr "Galeri"
+
+#: functions/admin-medialibrary-uploader.php:422
+#@ colabsthemes
+msgid "Previously Uploaded"
+msgstr "Telah Diperbaharui Sebelumnya"
+
+#: functions/admin-readme.php:29
+#@ colabsthemes
+msgid " - README.txt Theme File"
+msgstr ""
+
+#: functions/admin-sbm.php:877
+#@ default
+msgid "Sidebar Settings"
+msgstr ""
+
+#: functions/admin-shortcodes.php:477
+#@ colabsthemes
+msgid "No related posts found"
+msgstr "Tidak ada posting terkait yg ditemukan"
+
+#: functions/admin-shortcodes.php:1001
+#@ colabsthemes
+msgid "Hide the Content"
+msgstr "Sembunyikan Konten"
+
+#: functions/admin-shortcodes.php:1002
+#@ colabsthemes
+msgid "Show the Content"
+msgstr "Tampilkan Konten"
+
+#: functions/admin-shortcodes.php:1009
+#@ colabsthemes
+msgid "Read More"
+msgstr "Baca selengkapnya"
+
+#: functions/admin-shortcodes.php:1010
+#@ colabsthemes
+msgid "Read Less"
+msgstr "Baca lebih sedikit"
+
+#: functions/admin-shortcodes.php:1121
+#@ colabsthemes
+msgid "Message via the contact form"
+msgstr "Pesan Melalui Konten From"
+
+#: functions/admin-shortcodes.php:1122
+#: template-contact.php:172
+#@ colabsthemes
+msgid "Submit"
+msgstr "Kirim"
+
+#: functions/admin-shortcodes.php:1418
+#@ colabsthemes
+msgid "Please enter your name"
+msgstr "Masukkan nama anda"
+
+#: functions/admin-shortcodes.php:1419
+#@ colabsthemes
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr "Masukkan alamat email Anda (dan pastikan itu berlaku)"
+
+#: functions/admin-shortcodes.php:1420
+#@ colabsthemes
+msgid "Please enter your message"
+msgstr "Masukan Pesan Anda"
+
+#: functions/admin-shortcodes.php:1503
+#: functions/admin-shortcodes.php:1511
+#: template-contact.php:53
+#: template-contact.php:60
+#@ colabsthemes
+msgid "From: "
+msgstr "Dari:"
+
+#: functions/admin-shortcodes.php:1503
+#: functions/admin-shortcodes.php:1511
+#: template-contact.php:53
+#@ colabsthemes
+msgid "Reply-To: "
+msgstr ""
+
+#: functions/admin-shortcodes.php:1533
+#: template-contact.php:122
+#@ colabsthemes
+msgid "Your email was successfully sent."
+msgstr "Email anda berhasil terkirim."
+
+#: functions/admin-shortcodes.php:1542
+#@ colabsthemes
+msgid "There were one or more errors while submitting the form."
+msgstr "Ada satu atau lebih kesalahan saat mengirimkan formulir."
+
+#: functions/admin-shortcodes.php:1550
+#@ colabsthemes
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr "E-mail belum terisi. Silahkan menambahkan kontak e-mail!"
+
+#: functions/admin-shortcodes.php:1583
+#: includes/form/form.php:64
+#: includes/widgets/widget-colabs-info.php:118
+#: jigoshop/single-product-reviews.php:96
+#: template-contact.php:147
+#: woocommerce/myaccount/login.php:46
+#: woocommerce/single-product-reviews.php:81
+#@ colabsthemes
+#@ default
+#@ woothemes
+msgid "Email"
+msgstr ""
+
+#: functions/admin-shortcodes.php:1594
+#: template-contact.php:156
+#@ colabsthemes
+msgid "Message"
+msgstr "Pesan"
+
+#: functions/admin-shortcodes.php:1730
+#: template-contact.php:165
+#@ colabsthemes
+msgid "Send a copy of this email to yourself"
+msgstr "Kirimkan salinan email ini kepada diri sendiri."
+
+#: functions/admin-shortcodes.php:1739
+#: template-contact.php:169
+#@ colabsthemes
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr "Jika anda ingin mengirip form ini, jangan isi apapun di dalam field ini."
+
+#: functions/admin-shortcodes.php:2114
+#: functions/admin-shortcodes.php:2164
+#: functions/admin-shortcodes.php:2180
+#, php-format
+#@ colabsthemes
+msgid "My %s Profile"
+msgstr "%s Profil Saya"
+
+#: functions/admin-shortcodes.php:2135
+#@ colabsthemes
+msgid "Subscribe to our RSS feed"
+msgstr "Berlangganan RSS feed kami."
+
+#: functions/admin-shortcodes.php:2477
+#: includes/widgets/widget-colabs-twitter.php:27
+#@ colabsthemes
+msgid "Follow"
+msgstr "Mengikuti"
+
+#: functions/images/colorpicker/comments.php:4
+#@ colabsthemes
+msgid "Comments To This Entry"
+msgstr "Komentar Untuk Pesan Ini"
+
+#: comments.php:54
+#: functions/images/colorpicker/comments.php:47
+#@ colabsthemes
+#@ default
+msgid "Cancel"
+msgstr ""
+
+#: functions/install-script.php:757
+#@ cp
+msgid "This category was automatically created by ColorLabs. All your blog posts should be assigned to this category or a sub-category under blog."
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:51
+#@ colabsthemes
+msgid "Customize the Shortcode"
+msgstr "Kustomisasi Shortcode"
+
+#: functions/js/shortcode-generator/dialog.php:60
+#@ colabsthemes
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: functions/js/shortcode-generator/dialog.php:74
+#@ colabsthemes
+msgid "Shortcode Generator Error"
+msgstr ""
+
+#: functions/js/shortcode-generator/dialog.php:77
+#, php-format
+#@ colabsthemes
+msgid "Your version of the CoLabsFramework (%s) does not yet support shortcodes. Shortcodes were introduced with version %s of the framework."
+msgstr "Versi dari CoLabsFramework (%s) belum mendukung shortcodes, Shortcodes diperkenankan untuk versi %s dari framework"
+
+#: functions/js/shortcode-generator/dialog.php:79
+#: functions/js/shortcode-generator/dialog.php:93
+#@ colabsthemes
+msgid "What to do now?"
+msgstr "Apa yang harus dilakukan sekarang?"
+
+#: functions/js/shortcode-generator/dialog.php:81
+#@ colabsthemes
+msgid "Upgrading your theme, or rather the CoLabsFramework portion of it, will do the trick."
+msgstr "Upgrade tema anda, atau lebih tepatnya bagian CoLabsFramework, akan dilakukan trik."
+
+#: functions/js/shortcode-generator/dialog.php:83
+#, php-format
+#@ colabsthemes
+msgid "The framework is a collection of functionality that all CoLabsThemes have in common. In most cases you can update the framework even if you have modified your theme, because the framework resides in a separate location (under %s)."
+msgstr "Kerangka kerja ini adalah kumpulan fungsi bahwa semua CoLabsThemes memiliki kesamaan. Dalam kebanyakan kasus Anda dapat memperbarui kerangka bahkan jika Anda telah memodifikasi tema, karena kerangka berada di lokasi yang terpisah (dibawah %s)."
+
+#: functions/js/shortcode-generator/dialog.php:85
+#, php-format
+#@ colabsthemes
+msgid "There's a tutorial on how to do this on colorlabsproject.com: %sHow to upgradeyour theme%s."
+msgstr "Ada tutorial tentang cara untuk melakukan ini pada colorlabsproject.com: %sBagaimana cara upgrade Tema Anda%s."
+
+#: functions/js/shortcode-generator/dialog.php:87
+#@ colabsthemes
+msgid "<strong>Remember:</strong> Always backup your theme before you update it or make changes to it."
+msgstr "<strong>Ingat:</strong> Selalu backup TeMA ada sebelum anda mengupdatenya atau membuat perubahan."
+
+#: functions/js/shortcode-generator/dialog.php:91
+#@ colabsthemes
+msgid "Looks like your active theme is not from ColorLabs. The shortcode generator only works with themes from ColorLabs."
+msgstr "Terlihat seperti tema aktif Anda bukan dari ColorLabs. Generator shortcode hanya bekerja dengan tema dari ColorLabs."
+
+#: functions/js/shortcode-generator/dialog.php:95
+#@ colabsthemes
+msgid "Pick a fight: (1) If you already have a theme from ColorLabs, install and activate it or (2) if you don't yet have one of the awesome ColorLabs theme head over to the <a href=\"http://colorlabsproject.com/themes/\" target=\"_blank\" title=\"ColorLabs Gallery\">ColorLabs Gallery</a> and get one."
+msgstr "Bentrok: (1) Jika Anda sudah memiliki tema dari ColorLabs, menginstal dan mengaktifkannya atau (2) jika Anda belum memiliki salah satu kepala tema ColorLabs <a href=\"http://colorlabsproject.com/themes/\" target=\"_blank\" title=\"ColorLabs Gallery\">ColorLabs Gallery</a> dan dapatkan salah satunya."
+
+#: includes/theme-functions.php:407
+#@ colabsthemes
+msgid "on "
+msgstr ""
+
+#: includes/theme-options.php:103
+#@ colabsthemes
+msgid "Main Layout"
+msgstr "Tata Letak Utama"
+
+#: includes/theme-options.php:104
+#@ colabsthemes
+msgid "Select main content and sidebar alignment. Choose between left or right sidebar layout."
+msgstr "Pilih konten utama dan posisi sidebar, pilih antara kiri atau kanan letak sidebar."
+
+#: includes/theme-options.php:392
+#@ colabsthemes
+msgid " Image/Video Settings"
+msgstr "Settingan Gambar/Video"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:70
+#: includes/widgets/widget-colabs-flickr.php:50
+#: includes/widgets/widget-colabs-twitter.php:46
+#@ colabsthemes
+msgid "Title (optional):"
+msgstr "Judul (opsional):"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:74
+#@ colabsthemes
+msgid "Ad Code:"
+msgstr "Kode Iklan:"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:79
+#@ colabsthemes
+msgid "Image Url:"
+msgstr "Url gambar:"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:89
+#@ colabsthemes
+msgid "Link URL:"
+msgstr "Alamat URL:"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:93
+#@ colabsthemes
+msgid "Alt text:"
+msgstr "Texs Alt:"
+
+#: includes/widgets/widget-colabs-flickr.php:75
+#: includes/widgets/widget-colabs-tabs.php:31
+#: includes/widgets/widget-colabs-tabs.php:36
+#: includes/widgets/widget-colabs-tabs.php:116
+#: includes/widgets/widget-colabs-tabs.php:126
+#@ colabsthemes
+msgid "Latest"
+msgstr "Terakhir"
+
+#: includes/widgets/widget-colabs-flickr.php:76
+#@ colabsthemes
+msgid "Random"
+msgstr "Acak"
+
+#: includes/widgets/widget-colabs-bestseller.php:135
+#: includes/widgets/widget-colabs-fbfriends.php:53
+#: includes/widgets/widget-colabs-follow.php:50
+#: includes/widgets/widget-colabs-info.php:80
+#: includes/widgets/widget-colabs-list-taxonomy.php:40
+#: includes/widgets/widget-colabs-product-search.php:42
+#: includes/widgets/widget-colabs-search.php:33
+#: includes/widgets/widget-colabs-subscribe.php:53
+#@ default
+#@ colabsthemes
+msgid "Title:"
+msgstr "Judul:"
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:83
+#: includes/widgets/widget-colabs-flickr.php:80
+#@ colabsthemes
+msgid "Size:"
+msgstr "Ukuran:"
+
+#: includes/widgets/widget-colabs-flickr.php:10
+#@ colabsthemes
+msgid "ColorLabs - Flickr"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:54
+#@ colabsthemes
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:58
+#@ colabsthemes
+msgid "Number:"
+msgstr "Nomor:"
+
+#: includes/widgets/widget-colabs-tabs.php:10
+#@ colabsthemes
+msgid "ColorLabs - Tabs"
+msgstr ""
+
+#: includes/widgets/widget-colabs-tabs.php:32
+#: includes/widgets/widget-colabs-tabs.php:37
+#: includes/widgets/widget-colabs-tabs.php:117
+#: includes/widgets/widget-colabs-tabs.php:129
+#@ colabsthemes
+msgid "Comments"
+msgstr "Komentar"
+
+#: includes/widgets/widget-colabs-tabs.php:33
+#: includes/widgets/widget-colabs-tabs.php:38
+#: includes/widgets/widget-colabs-tabs.php:118
+#: includes/widgets/widget-colabs-tabs.php:132
+#@ colabsthemes
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/widget-colabs-tabs.php:35
+#: includes/widgets/widget-colabs-tabs.php:115
+#: includes/widgets/widget-colabs-tabs.php:123
+#@ colabsthemes
+msgid "Popular"
+msgstr "Populer"
+
+#: includes/widgets/widget-colabs-tabs.php:103
+#@ colabsthemes
+msgid "Number of posts:"
+msgstr "Nomor dari posting"
+
+#: includes/widgets/widget-colabs-tabs.php:108
+#@ colabsthemes
+msgid "Thumbnail Size (0=disable):"
+msgstr "Ukuran Thumbnail (0=disable):"
+
+#: includes/widgets/widget-colabs-tabs.php:113
+#@ colabsthemes
+msgid "First Visible Tab:"
+msgstr "Tab Pertama Tampil:"
+
+#: includes/widgets/widget-colabs-twitter.php:27
+#@ colabsthemes
+msgid "on Twitter"
+msgstr "dalam Twitter"
+
+#: includes/widgets/widget-colabs-twitter.php:50
+#: wpsc-user-log.php:149
+#@ colabsthemes
+#@ wpsc
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-twitter.php:54
+#@ colabsthemes
+msgid "Limit:"
+msgstr "Batas:"
+
+#: template-contact.php:17
+#@ colabsthemes
+msgid "You forgot to enter your name."
+msgstr "Anda belum memasukan nama."
+
+#: template-contact.php:25
+#@ colabsthemes
+msgid "You forgot to enter your email address."
+msgstr "Anda belum memasukan alamat email."
+
+#: template-contact.php:28
+#@ colabsthemes
+msgid "You entered an invalid email address."
+msgstr "Anda memasukan email yg salah."
+
+#: template-contact.php:36
+#@ colabsthemes
+msgid "You forgot to enter your comments."
+msgstr "Anda belum mengisi komentar"
+
+#: template-contact.php:50
+#@ colabsthemes
+msgid "Contact Form Submission from "
+msgstr "Penyampaian Form Kontak dari"
+
+#: template-contact.php:59
+#@ colabsthemes
+msgid "You emailed "
+msgstr "Anda diemail"
+
+#: template-contact.php:79
+#@ colabsthemes
+msgid "You forgot to enter your"
+msgstr "Anda belum memasukan "
+
+#: template-contact.php:87
+#@ colabsthemes
+msgid "You entered an invalid"
+msgstr "Anda memasukkan tidak valid"
+
+#: template-contact.php:97
+#@ colabsthemes
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr "<strong>Terima Kasih!</strong> Email anda telah berhasil dikirim."
+
+#: template-contact.php:119
+#@ colabthemes
+msgid "This is the easiest way to contact us, fill the form below"
+msgstr ""
+
+#: template-contact.php:122
+#@ colabsthemes
+msgid "We will reply your message immediately."
+msgstr "Kami akan membalas pesan Anda dengan segera."
+
+#: template-contact.php:129
+#@ colabsthemes
+msgid "There was an error submitting the form."
+msgstr "Terjadi kesalahan saat mengirimkan formulir."
+
+#: template-contact.php:132
+#@ colabsthemes
+msgid "E-mail has not been setup properly. Please add your contact e-mail."
+msgstr "E-mail belum terisi dengan benar. Silahkan menambahkan kontak e-mail."
+
+#: template-sitemap.php:17
+#@ colabsthemes
+msgid "Pages :"
+msgstr ""
+
+#: template-sitemap.php:35
+#@ colabsthemes
+msgid "Monthly Archives :"
+msgstr ""
+
+#: template-sitemap.php:22
+#@ colabsthemes
+msgid "RSS Feed :"
+msgstr ""
+
+#: 404.php:13
+#@ colabsthemes
+msgid "ERROR 404"
+msgstr ""
+
+#: 404.php:15
+#@ colabsthemes
+msgid "Whoops... It seems that page you were looking for doesn't exist. Try searching the site."
+msgstr ""
+
+#: archive.php:17
+#: template-blog.php:20
+#@ colabsthemes
+msgid "SORT BY CATEGORY"
+msgstr ""
+
+#: archive.php:41
+#: search.php:32
+#: single.php:18
+#: template-blog.php:45
+#@ colabsthemes
+msgid "Add Comment"
+msgstr ""
+
+#: archive.php:41
+#: includes/theme-js.php:104
+#: search.php:32
+#: single.php:18
+#: template-blog.php:45
+#@ colabsthemes
+#@ default
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:7
+#, php-format
+#@ colabsthemes
+msgid "Comment %1$s"
+msgid_plural "Comments %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:11
+#@ colabsthemes
+msgid "Have Something To Say ?"
+msgstr ""
+
+#: comments.php:51
+#@ colabsthemes
+msgid "Leave your comment here"
+msgstr ""
+
+#: footer.php:16
+#@ colabsthemes
+msgid "Best Sellers"
+msgstr ""
+
+#: footer.php:34
+#: includes/widgets/widget-colabs-twitter.php:22
+#@ colabsthemes
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:52
+#@ colabsthemes
+msgid "Photos on Flickr"
+msgstr ""
+
+#: header.php:64
+#@ colabsthemes
+msgid "View your shopping cart"
+msgstr ""
+
+#: header.php:67
+#, php-format
+#@ colabsthemes
+msgid "%d item &ndash; "
+msgid_plural "%d items &ndash; "
+msgstr[0] ""
+msgstr[1] ""
+
+#: header.php:78
+#: wpsc-cart_widget.php:45
+#@ wpsc
+msgid "Checkout"
+msgstr ""
+
+#: header.php:80
+#: wpsc-cart_widget.php:36
+#, php-format
+#@ colabsthemes
+#@ wpsc
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: header.php:88
+#: includes/form/form.php:52
+#: includes/form/form.php:87
+#: woocommerce/myaccount/login.php:38
+#: woocommerce/myaccount/login.php:66
+#@ colabsthemes
+#@ woothemes
+msgid "Register"
+msgstr ""
+
+#: header.php:90
+#: includes/form/form.php:17
+#: includes/form/form.php:34
+#: woocommerce/myaccount/login.php:13
+#: woocommerce/myaccount/login.php:27
+#@ colabsthemes
+#@ woothemes
+msgid "Login"
+msgstr ""
+
+#: header.php:92
+#@ colabsthemes
+msgid "My Account"
+msgstr ""
+
+#: header.php:93
+#@ colabsthemes
+msgid "Log Out"
+msgstr ""
+
+#: includes/form/form-process.php:108
+#@ appthemes
+msgid "<strong>Notice</strong>: You must accept our terms and conditions in order to register."
+msgstr ""
+
+#: includes/form/form-process.php:114
+#@ appthemes
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: includes/form/form-process.php:116
+#@ appthemes
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr ""
+
+#: includes/form/form-process.php:119
+#@ appthemes
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr ""
+
+#: includes/form/form-process.php:123
+#@ appthemes
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: includes/form/form-process.php:125
+#@ appthemes
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: includes/form/form-process.php:128
+#@ appthemes
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr ""
+
+#: includes/form/form-process.php:133
+#@ appthemes
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr ""
+
+#: includes/form/form-process.php:135
+#@ appthemes
+msgid "<strong>ERROR</strong>: Please enter password twice."
+msgstr ""
+
+#: includes/form/form-process.php:137
+#@ appthemes
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr ""
+
+#: includes/form/form-process.php:146
+#@ appthemes
+msgid "<strong>ERROR</strong>: The reCaptcha anti-spam response was incorrect."
+msgstr ""
+
+#: includes/form/form-process.php:159
+#, php-format
+#@ appthemes
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: includes/form/form-process.php:215
+#, php-format
+#@ default
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: includes/form/form-process.php:216
+#: includes/form/form-process.php:226
+#: woocommerce/emails/customer_new_account.php:10
+#, php-format
+#@ default
+#@ colabsthemes
+msgid "Username: %s"
+msgstr ""
+
+#: includes/form/form-process.php:217
+#, php-format
+#@ default
+msgid "E-mail: %s"
+msgstr ""
+
+#: includes/form/form-process.php:219
+#, php-format
+#@ default
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/form/form-process.php:227
+#: woocommerce/emails/customer_new_account.php:11
+#, php-format
+#@ colabsthemes
+#@ default
+msgid "Password: %s"
+msgstr ""
+
+#: includes/form/form-process.php:230
+#, php-format
+#@ colabsthemes
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: includes/form/form.php:22
+#: includes/form/form.php:59
+#: woocommerce/myaccount/login.php:16
+#: woocommerce/myaccount/login.php:42
+#: wpsc-shopping_cart_page.php:254
+#@ colabsthemes
+#@ woothemes
+#@ wpsc
+msgid "Username"
+msgstr ""
+
+#: includes/form/form.php:27
+#: woocommerce/myaccount/login.php:20
+#: woocommerce/myaccount/login.php:52
+#: wpsc-shopping_cart_page.php:257
+#@ colabsthemes
+#@ woothemes
+#@ wpsc
+msgid "Password"
+msgstr ""
+
+#: includes/form/form.php:35
+#@ colabsthemes
+msgid "Forgot Password?"
+msgstr ""
+
+#: includes/form/form.php:70
+#@ colabsthemes
+msgid "Enter a password"
+msgstr ""
+
+#: includes/form/form.php:75
+#@ colabsthemes
+msgid "Enter password again"
+msgstr ""
+
+#: includes/form/form.php:95
+#@ colabsthemes
+msgid "Registration is disabled on this site"
+msgstr ""
+
+#: includes/form/form.php:102
+#@ colabsthemes
+msgid "Please enter your username or email address. A new password will be emailed to you."
+msgstr ""
+
+#: includes/form/form.php:106
+#: includes/form/form.php:107
+#@ colabsthemes
+msgid "Username/Email"
+msgstr ""
+
+#: includes/form/form.php:110
+#@ colabsthemes
+msgid "Get New Password"
+msgstr ""
+
+#: includes/theme-comments.php:27
+#, php-format
+#@ colabsthemes
+msgid "%1$s"
+msgstr ""
+
+#: includes/theme-comments.php:29
+#@ colabsthemes
+msgid "Reply Comment"
+msgstr ""
+
+#: includes/theme-comments.php:60
+#, php-format
+#@ your-theme
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#: includes/theme-comments.php:64
+#@ your-theme
+msgid "Edit"
+msgstr ""
+
+#: includes/theme-comments.php:65
+#@ your-theme
+msgid "\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting moderation.</span>\n"
+msgstr ""
+
+#: includes/theme-functions.php:256
+#@ colabsthemes
+msgid "<span class=\"meta-nav\">&laquo;</span> Previous Entries"
+msgstr ""
+
+#: includes/theme-functions.php:257
+#@ colabsthemes
+msgid "Next Entries <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: includes/theme-functions.php:432
+#: includes/theme-functions.php:449
+#@ colabsthemes
+msgid "Archive for"
+msgstr ""
+
+#: includes/theme-functions.php:436
+#@ colabsthemes
+msgid "Author"
+msgstr ""
+
+#: includes/theme-functions.php:440
+#@ colabsthemes
+msgid "Category for"
+msgstr ""
+
+#: includes/theme-functions.php:445
+#@ colabsthemes
+msgid "Tag archive for"
+msgstr ""
+
+#: includes/theme-functions.php:454
+#@ colabsthemes
+msgid "Search Results for "
+msgstr ""
+
+#: includes/theme-functions.php:458
+#@ colabsthemes
+msgid "404 Error (Page Not Found)"
+msgstr ""
+
+#: includes/theme-functions.php:479
+#@ colabsthemes
+msgid "Main Menu"
+msgstr ""
+
+#: includes/theme-functions.php:480
+#@ colabsthemes
+msgid "Secondary Menu"
+msgstr ""
+
+#: includes/theme-functions.php:719
+#, php-format
+#@ colabstheme
+msgid "%d item - "
+msgid_plural "%d items - "
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/theme-functions.php:742
+#@ colabsthemes
+msgid "Find Products"
+msgstr ""
+
+#: includes/theme-functions.php:758
+#@ colabsthemes
+msgid "Brands"
+msgstr ""
+
+#: includes/theme-functions.php:777
+#: includes/widgets/widget-colabs-info.php:66
+#@ colabsthemes
+msgid "Need Help?"
+msgstr ""
+
+#: includes/theme-functions.php:798
+#@ colabsthemes
+msgid "Subscribe"
+msgstr ""
+
+#: includes/theme-functions.php:814
+#: includes/widgets/widget-colabs-fbfriends.php:48
+#@ colabsthemes
+msgid "Facebook Friends"
+msgstr ""
+
+#: includes/theme-functions.php:834
+#: includes/widgets/widget-colabs-follow.php:21
+#@ colabsthemes
+msgid "Follow Us"
+msgstr ""
+
+#: includes/theme-functions.php:867
+#: includes/theme-functions.php:909
+#@ colabsthemes
+msgid "Related Products"
+msgstr ""
+
+#: includes/theme-functions.php:977
+#@ colabsthemes
+msgid "Type the two words:"
+msgstr ""
+
+#: includes/theme-functions.php:978
+#@ colabsthemes
+msgid "Type what you hear:"
+msgstr ""
+
+#: includes/theme-functions.php:979
+#@ colabsthemes
+msgid "Play sound again"
+msgstr ""
+
+#: includes/theme-functions.php:980
+#@ colabsthemes
+msgid "Download sound as MP3"
+msgstr ""
+
+#: includes/theme-functions.php:981
+#@ colabsthemes
+msgid "Visual challenge"
+msgstr ""
+
+#: includes/theme-functions.php:982
+#@ colabsthemes
+msgid "Audio challenge"
+msgstr ""
+
+#: includes/theme-functions.php:983
+#@ colabsthemes
+msgid "Get two new words"
+msgstr ""
+
+#: includes/theme-functions.php:984
+#@ colabsthemes
+msgid "Help"
+msgstr ""
+
+#: includes/theme-functions.php:985
+#@ colabsthemes
+msgid "Incorrect. Try again."
+msgstr ""
+
+#: includes/theme-js.php:98
+#@ default
+msgid "No Comments"
+msgstr ""
+
+#: includes/theme-js.php:101
+#@ default
+msgid " Comments"
+msgstr ""
+
+#: includes/theme-js.php:125
+#@ colabsthemes
+msgid "Posted by"
+msgstr ""
+
+#: includes/theme-js.php:132
+#@ default
+msgid "No more post."
+msgstr ""
+
+#: includes/theme-login.php:57
+#@ colabsthemes
+msgid "Retrieve your lost password for "
+msgstr ""
+
+#: includes/theme-login.php:62
+#@ colabsthemes
+msgid "Login/Register at "
+msgstr ""
+
+#: includes/theme-login.php:67
+#@ colabsthemes
+msgid "Your Profile at "
+msgstr ""
+
+#: includes/theme-login.php:87
+#: includes/theme-login.php:162
+#@ colabsthemes
+msgid "Cookies are blocked or not supported by your browser. You must enable cookies to continue."
+msgstr ""
+
+#: includes/theme-login.php:90
+#: includes/theme-login.php:165
+#@ colabsthemes
+msgid "You are now logged out."
+msgstr ""
+
+#: includes/theme-login.php:93
+#: includes/theme-login.php:168
+#@ colabsthemes
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: includes/theme-login.php:96
+#: includes/theme-login.php:171
+#@ colabsthemes
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: includes/theme-login.php:99
+#: includes/theme-login.php:174
+#@ colabsthemes
+msgid "Check your email for your new password."
+msgstr ""
+
+#: includes/theme-login.php:102
+#: includes/theme-login.php:177
+#@ colabsthemes
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: includes/theme-login.php:232
+#@ colabsthemes
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: includes/theme-options.php:84
+#@ colabsthemes
+msgid "Use for blog title/logo"
+msgstr ""
+
+#: includes/theme-options.php:85
+#@ colabsthemes
+msgid "Select title or logo for your blog."
+msgstr ""
+
+#: includes/theme-options.php:89
+#@ colabsthemes
+msgid "Logo"
+msgstr ""
+
+#: includes/theme-options.php:89
+#@ colabsthemes
+msgid "Title"
+msgstr ""
+
+#: includes/theme-options.php:113
+#@ colabsthemes
+msgid "Enable / Disable reCaptcha"
+msgstr ""
+
+#: includes/theme-options.php:114
+#, php-format
+#@ colabsthemes
+msgid "%2$s. reCaptcha is a free anti-spam service provided by Google. Learn more about <a target=\"_new\" href=\"%1$s\">reCaptcha</a>."
+msgstr ""
+
+#: includes/theme-options.php:114
+#@ colabsthemes
+msgid "Set this option to yes to enable the reCaptcha service that will protect your site against spam registrations. It will show a verification box on your registration page that requires a human to read and enter the words"
+msgstr ""
+
+#: includes/theme-options.php:120
+#@ colabsthemes
+msgid "reCaptcha Public Key"
+msgstr ""
+
+#: includes/theme-options.php:121
+#: includes/theme-options.php:128
+#, php-format
+#@ colabsthemes
+msgid "Sign up for a free <a target=\"_new\" href=\"%2$s\">Google reCaptcha</a> account."
+msgstr ""
+
+#: includes/theme-options.php:121
+#@ colabsthemes
+msgid "Enter your public key here to enable an anti-spam service on your new user registration page (requires a free Google reCaptcha account). Leave it blank if you do not wish to use this anti-spam feature"
+msgstr ""
+
+#: includes/theme-options.php:127
+#@ colabsthemes
+msgid "reCaptcha Private Key"
+msgstr ""
+
+#: includes/theme-options.php:128
+#@ colabsthemes
+msgid "Enter your private key here to enable an anti-spam service on your new user registration page (requires a free Google reCaptcha account). Leave it blank if you do not wish to use this anti-spam feature"
+msgstr ""
+
+#: includes/theme-options.php:134
+#@ colabsthemes
+msgid "Choose Theme"
+msgstr ""
+
+#: includes/theme-options.php:135
+#@ colabsthemes
+msgid "Select the color scheme you wish to use for reCaptcha."
+msgstr ""
+
+#: includes/theme-options.php:140
+#@ colabsthemes
+msgid "Red"
+msgstr ""
+
+#: includes/theme-options.php:140
+#@ colabsthemes
+msgid "White"
+msgstr ""
+
+#: includes/theme-options.php:140
+#@ colabsthemes
+msgid "Black"
+msgstr ""
+
+#: includes/theme-options.php:140
+#@ colabsthemes
+msgid "Clean"
+msgstr ""
+
+#: includes/theme-options.php:405
+#@ colabsthemes
+msgid " Review Detail Settings"
+msgstr ""
+
+#: includes/theme-sidebar-init.php:11
+#@ colabsthemes
+msgid "Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar-init.php:20
+#@ colabsthemes
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar-init.php:29
+#@ colabsthemes
+msgid "Home Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar-init.php:38
+#@ colabsthemes
+msgid "Footer Sidebar"
+msgstr ""
+
+#: includes/widgets/widget-colabs-about.php:9
+#@ colabsthemes
+msgid "ColorLabs - About Page"
+msgstr ""
+
+#: includes/widgets/widget-colabs-about.php:53
+#@ colabsthemes
+msgid "Page:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-ad-sidebar.php:10
+#@ colabsthemes
+msgid "ColorLabs - Ads Widget"
+msgstr ""
+
+#: includes/widgets/widget-colabs-bestseller.php:9
+#@ colabsthemes
+msgid "ColorLabs - Best Sellers Product"
+msgstr ""
+
+#: includes/widgets/widget-colabs-bestseller.php:145
+#@ default
+msgid "Text or Image?"
+msgstr ""
+
+#: includes/widgets/widget-colabs-bestseller.php:148
+#@ default
+msgid "Number of products to show:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-fbfriends.php:6
+#@ colabsthemes
+msgid "This places a Facebook page Like Box in your sidebar to attract and gain Likes from visitors."
+msgstr ""
+
+#: includes/widgets/widget-colabs-fbfriends.php:7
+#@ colabsthemes
+msgid "ColorLabs - Facebook Like Box"
+msgstr ""
+
+#: includes/widgets/widget-colabs-fbfriends.php:58
+#@ colabsthemes
+msgid "Facebook ID:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-fbfriends.php:64
+#@ colabsthemes
+msgid "Connections"
+msgstr ""
+
+#: includes/widgets/widget-colabs-fbfriends.php:69
+#@ colabsthemes
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/widget-colabs-fbfriends.php:74
+#@ colabsthemes
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:24
+#@ colabsthemes
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:66
+#@ colabsthemes
+msgid "Type:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:68
+#@ colabsthemes
+msgid "User"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:69
+#@ colabsthemes
+msgid "Group"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:73
+#@ colabsthemes
+msgid "Sorting:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:82
+#@ colabsthemes
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:83
+#@ colabsthemes
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:84
+#@ colabsthemes
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-colabs-follow.php:9
+#@ colabsthemes
+msgid "ColorLabs - Follow"
+msgstr ""
+
+#: includes/widgets/widget-colabs-follow.php:48
+#@ colabsthemes
+msgid "You can set your social id's in theme panel."
+msgstr ""
+
+#: includes/widgets/widget-colabs-follow.php:54
+#@ colabsthemes
+msgid "Twitter:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-follow.php:58
+#@ colabsthemes
+msgid "Facebook:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-follow.php:62
+#@ colabsthemes
+msgid "Google Plus:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-info.php:9
+#@ colabsthemes
+msgid "ColorLabs - Address Info"
+msgstr ""
+
+#: includes/widgets/widget-colabs-info.php:84
+#@ colabsthemes
+msgid "Other Title"
+msgstr ""
+
+#: includes/widgets/widget-colabs-info.php:90
+#@ colabsthemes
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/widget-colabs-info.php:96
+#@ colabsthemes
+msgid "Zip Code"
+msgstr ""
+
+#: includes/widgets/widget-colabs-info.php:102
+#@ colabsthemes
+msgid "State"
+msgstr ""
+
+#: includes/widgets/widget-colabs-info.php:108
+#@ colabsthemes
+msgid "City"
+msgstr ""
+
+#: includes/widgets/widget-colabs-info.php:113
+#@ colabsthemes
+msgid "Phone"
+msgstr ""
+
+#: includes/widgets/widget-colabs-list-taxonomy.php:9
+#@ colabsthemes
+msgid "ColorLabs - Taxonomies"
+msgstr ""
+
+#: includes/widgets/widget-colabs-list-taxonomy.php:19
+#@ colabsthemes
+msgid "List Taxonomies"
+msgstr ""
+
+#: includes/widgets/widget-colabs-list-taxonomy.php:44
+#@ colabsthemes
+msgid "Taxonomy:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-product-search.php:9
+#@ colabsthemes
+msgid "ColorLabs - Product Search"
+msgstr ""
+
+#: includes/widgets/widget-colabs-product-search.php:20
+#@ colabsthemes
+msgid "Search for products"
+msgstr ""
+
+#: includes/widgets/widget-colabs-search.php:9
+#@ colabsthemes
+msgid "ColorLabs - Search"
+msgstr ""
+
+#: includes/widgets/widget-colabs-subscribe.php:9
+#@ colabsthemes
+msgid "ColorLabs - Subscribe by Mail"
+msgstr ""
+
+#: includes/widgets/widget-colabs-subscribe.php:22
+#@ colabsthemes
+msgid "Subscribe to Our Newsletter"
+msgstr ""
+
+#: includes/widgets/widget-colabs-subscribe.php:26
+#@ colabsthemes
+msgid "Your Email Here"
+msgstr ""
+
+#: includes/widgets/widget-colabs-subscribe.php:29
+#@ colabsthemes
+msgid "GO"
+msgstr ""
+
+#: includes/widgets/widget-colabs-subscribe.php:57
+#@ colabsthemes
+msgid "Feedburner ID :"
+msgstr ""
+
+#: includes/widgets/widget-colabs-subscribe.php:61
+#@ colabsthemes
+msgid "Description:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-subscribe.php:65
+#@ colabsthemes
+msgid "Form Size:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-twitter.php:9
+#@ colabsthemes
+msgid "ColorLabs - Twitter Stream"
+msgstr ""
+
+#: index.php:79
+#@ colabsthemes
+msgid "Featured Products"
+msgstr ""
+
+#: index.php:89
+#: index.php:93
+#: index.php:113
+#: jigoshop/loop-shop.php:43
+#: woocommerce/loop-shop.php:36
+#: wpsc-grid_view.php:130
+#: wpsc-list_view.php:125
+#: wpsc-products_page.php:35
+#: wpsc-single_product.php:180
+#@ colabsthemes
+#@ wpsc
+msgid "Add To Cart"
+msgstr ""
+
+#: index.php:111
+#: wpsc-list_view.php:123
+#: wpsc-products_page.php:33
+#: wpsc-single_product.php:178
+#@ wpsc
+msgid "Buy Now"
+msgstr ""
+
+#: index.php:117
+#: wpsc-grid_view.php:139
+#: wpsc-list_view.php:129
+#: wpsc-products_page.php:39
+#: wpsc-single_product.php:184
+#@ wpsc
+msgid "Updating cart..."
+msgstr ""
+
+#: index.php:144
+#@ colabsthemes
+msgid "Latest News"
+msgstr ""
+
+#: index.php:149
+#@ colabsthemes
+msgid "Continue Reading"
+msgstr ""
+
+#: jigoshop/archive-product.php:24
+#: woocommerce/archive-product.php:13
+#@ jigoshop
+#@ woothemes
+msgid "Search Results:"
+msgstr ""
+
+#: jigoshop/archive-product.php:26
+#@ jigoshop
+msgid "All Products"
+msgstr ""
+
+#: jigoshop/checkout/form.php:38
+#: woocommerce/checkout/form.php:29
+#@ jigoshop
+#@ woothemes
+msgid "Your order"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:25
+#: jigoshop/checkout/review_order.php:50
+#: woocommerce/checkout/pay_for_order.php:7
+#: woocommerce/checkout/review_order.php:7
+#: woocommerce/emails/customer_completed_order.php:16
+#: woocommerce/emails/customer_note_notification.php:20
+#: woocommerce/emails/customer_pay_for_order.php:20
+#: woocommerce/emails/customer_processing_order.php:16
+#: woocommerce/emails/new_order.php:16
+#: wpsc-cart_widget.php:12
+#: wpsc-shopping_cart_page.php:18
+#@ jigoshop
+#@ woothemes
+#@ wpsc
+msgid "Product"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:26
+#: jigoshop/checkout/review_order.php:51
+#: woocommerce/checkout/pay_for_order.php:8
+#: woocommerce/checkout/review_order.php:8
+#: wpsc-cart_widget.php:13
+#@ jigoshop
+#@ woothemes
+#@ wpsc
+msgid "Qty"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:27
+#: jigoshop/checkout/review_order.php:52
+#: woocommerce/checkout/pay_for_order.php:9
+#: woocommerce/checkout/review_order.php:9
+#@ jigoshop
+#@ woothemes
+msgid "Totals"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:32
+#: jigoshop/checkout/review_order.php:57
+#: woocommerce/checkout/pay_for_order.php:14
+#@ jigoshop
+#@ woothemes
+msgid "Subtotal"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:36
+#: jigoshop/checkout/review_order.php:62
+#: woocommerce/checkout/pay_for_order.php:18
+#: woocommerce/checkout/review_order.php:24
+#: wpsc-grid_view.php:93
+#: wpsc-single_product.php:152
+#@ jigoshop
+#@ woothemes
+#@ wpsc
+msgid "Shipping"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:40
+#: jigoshop/checkout/review_order.php:108
+#: woocommerce/checkout/pay_for_order.php:22
+#: woocommerce/checkout/review_order.php:81
+#@ jigoshop
+#@ woothemes
+msgid "Tax"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:44
+#: jigoshop/checkout/review_order.php:113
+#: woocommerce/checkout/pay_for_order.php:26
+#: wpsc-shopping_cart_page.php:472
+#@ jigoshop
+#@ woothemes
+#@ wpsc
+msgid "Discount"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:48
+#: jigoshop/checkout/review_order.php:117
+#: woocommerce/checkout/pay_for_order.php:30
+#@ jigoshop
+#@ woothemes
+msgid "Grand Total"
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:93
+#: woocommerce/checkout/pay_for_order.php:75
+#@ jigoshop
+#@ woothemes
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: jigoshop/checkout/pay_for_order.php:102
+#: woocommerce/checkout/pay_for_order.php:84
+#@ jigoshop
+#@ woothemes
+msgid "Pay for order"
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:29
+#@ jigoshop
+msgid "Sorry, your session has expired."
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:29
+#@ jigoshop
+msgid "Return to homepage &rarr;"
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:82
+#@ jigoshop
+msgid " (ex. tax)"
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:84
+#: woocommerce/checkout/review_order.php:57
+#@ jigoshop
+#@ woothemes
+msgid "Free"
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:96
+#: woocommerce/checkout/review_order.php:69
+#@ jigoshop
+#@ woothemes
+msgid "Please fill in your details above to see available shipping methods."
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:98
+#: woocommerce/checkout/review_order.php:71
+#@ jigoshop
+#@ woothemes
+msgid "Sorry, it seems that there are no available shipping methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:166
+#: woocommerce/checkout/review_order.php:140
+#@ jigoshop
+#@ woothemes
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:168
+#: woocommerce/checkout/review_order.php:142
+#@ jigoshop
+#@ woothemes
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:178
+#: woocommerce/checkout/review_order.php:152
+#@ jigoshop
+#@ woothemes
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:178
+#: woocommerce/checkout/review_order.php:152
+#@ jigoshop
+#@ woothemes
+msgid "Update totals"
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:181
+#: woocommerce/checkout/review_order.php:158
+#@ jigoshop
+#@ woothemes
+msgid "Place order"
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:187
+#: woocommerce/checkout/review_order.php:162
+#@ jigoshop
+#@ woothemes
+msgid "I accept the"
+msgstr ""
+
+#: jigoshop/checkout/review_order.php:187
+#: woocommerce/checkout/review_order.php:162
+#@ jigoshop
+#@ woothemes
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: jigoshop/loop-shop.php:54
+#: woocommerce/loop-shop.php:43
+#@ jigoshop
+#@ woothemes
+msgid "No products found which match your selection."
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:46
+#: woocommerce/single-product-reviews.php:29
+#, php-format
+#@ jigoshop
+#@ woothemes
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:46
+#: woocommerce/single-product-reviews.php:29
+#@ jigoshop
+#@ woothemes
+msgid "out of 5"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:48
+#: woocommerce/single-product-reviews.php:31
+#, php-format
+#@ jigoshop
+#@ woothemes
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: jigoshop/single-product-reviews.php:53
+#: woocommerce/single-product-reviews.php:37
+#@ jigoshop
+#@ woothemes
+msgid "Reviews"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:68
+#: woocommerce/single-product-reviews.php:53
+#@ jigoshop
+#@ woothemes
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:69
+#: woocommerce/single-product-reviews.php:54
+#@ jigoshop
+#@ woothemes
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:73
+#: woocommerce/single-product-reviews.php:58
+#@ jigoshop
+#@ woothemes
+msgid "Add Review"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:75
+#: woocommerce/single-product-reviews.php:60
+#@ jigoshop
+#@ woothemes
+msgid "Add a review"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:79
+#@ jigoshop
+msgid "Be the first to review "
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:81
+#: woocommerce/single-product-reviews.php:66
+#@ jigoshop
+#@ woothemes
+msgid "There are no reviews yet, would you like to <a href=\"#review_form\" class=\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:99
+#: woocommerce/single-product-reviews.php:84
+#@ jigoshop
+#@ woothemes
+msgid "Submit Review"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:102
+#: woocommerce/single-product-reviews.php:87
+#@ jigoshop
+#@ woothemes
+msgid "Rating"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:103
+#: woocommerce/single-product-reviews.php:88
+#@ jigoshop
+#@ woothemes
+msgid "Rate..."
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:104
+#: woocommerce/single-product-reviews.php:89
+#@ jigoshop
+#@ woothemes
+msgid "Perfect"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:105
+#: woocommerce/single-product-reviews.php:90
+#@ jigoshop
+#@ woothemes
+msgid "Good"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:106
+#: woocommerce/single-product-reviews.php:91
+#@ jigoshop
+#@ woothemes
+msgid "Average"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:107
+#: woocommerce/single-product-reviews.php:92
+#@ jigoshop
+#@ woothemes
+msgid "Not that bad"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:108
+#: woocommerce/single-product-reviews.php:93
+#@ jigoshop
+#@ woothemes
+msgid "Very Poor"
+msgstr ""
+
+#: jigoshop/single-product-reviews.php:110
+#@ default
+msgctxt "noun"
+msgid "Your Review"
+msgstr ""
+
+#: single.php:51
+#@ colabsthemes
+msgid "About The Author"
+msgstr ""
+
+#: single.php:53
+#@ colabsthemes
+msgid "View all post by"
+msgstr ""
+
+#: template-blog.php:68
+#@ twentyeleven
+msgid "Older posts"
+msgstr ""
+
+#: template-blog.php:69
+#@ twentyeleven
+msgid "Newer posts"
+msgstr ""
+
+#: template-sitemap.php:15
+#@ colabsthemes
+msgid "Sitemap"
+msgstr ""
+
+#: template-sitemap.php:30
+#@ colabsthemes
+msgid "Blog Categories :"
+msgstr ""
+
+#: template-sitemap.php:57
+#@ colabsthemes
+msgid "Product Categories :"
+msgstr ""
+
+#: woocommerce/checkout/form.php:7
+#@ woothemes
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/review_order.php:14
+#@ woothemes
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/review_order.php:19
+#@ woothemes
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/checkout/review_order.php:86
+#@ woothemes
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/checkout/review_order.php:91
+#@ woothemes
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:7
+#@ woothemes
+msgid "Your order is complete. Your order's details are below:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:11
+#: woocommerce/emails/customer_note_notification.php:15
+#: woocommerce/emails/customer_processing_order.php:11
+#: woocommerce/emails/new_order.php:11
+#@ woothemes
+msgid "Order #:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:17
+#: woocommerce/emails/customer_note_notification.php:21
+#: woocommerce/emails/customer_pay_for_order.php:21
+#: woocommerce/emails/customer_processing_order.php:17
+#: woocommerce/emails/new_order.php:17
+#: wpsc-list_view.php:109
+#: wpsc-shopping_cart_page.php:19
+#: wpsc-single_product.php:120
+#@ woothemes
+#@ wpsc
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:18
+#: woocommerce/emails/customer_note_notification.php:22
+#: woocommerce/emails/customer_pay_for_order.php:22
+#: woocommerce/emails/customer_processing_order.php:18
+#: woocommerce/emails/new_order.php:18
+#: wpsc-cart_widget.php:14
+#: wpsc-grid_view.php:91
+#: wpsc-shopping_cart_page.php:20
+#: wpsc-single_product.php:143
+#: wpsc-user-log.php:107
+#@ woothemes
+#@ wpsc
+msgid "Price"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:23
+#: woocommerce/emails/customer_note_notification.php:27
+#: woocommerce/emails/customer_pay_for_order.php:27
+#: woocommerce/emails/customer_processing_order.php:23
+#: woocommerce/emails/new_order.php:23
+#@ woothemes
+msgid "Cart Subtotal:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:27
+#: woocommerce/emails/customer_note_notification.php:31
+#: woocommerce/emails/customer_pay_for_order.php:31
+#: woocommerce/emails/customer_processing_order.php:27
+#: woocommerce/emails/new_order.php:27
+#@ woothemes
+msgid "Cart Discount:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:31
+#: woocommerce/emails/customer_note_notification.php:35
+#: woocommerce/emails/customer_pay_for_order.php:35
+#: woocommerce/emails/customer_processing_order.php:31
+#: woocommerce/emails/new_order.php:31
+#@ woothemes
+msgid "Shipping:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:39
+#: woocommerce/emails/customer_note_notification.php:43
+#: woocommerce/emails/customer_pay_for_order.php:43
+#: woocommerce/emails/customer_processing_order.php:39
+#: woocommerce/emails/new_order.php:39
+#@ woothemes
+msgid "Order Discount:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:43
+#: woocommerce/emails/customer_note_notification.php:47
+#: woocommerce/emails/customer_pay_for_order.php:47
+#: woocommerce/emails/customer_processing_order.php:43
+#: woocommerce/emails/new_order.php:43
+#@ woothemes
+msgid "Order Total:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:54
+#: woocommerce/emails/customer_note_notification.php:58
+#: woocommerce/emails/customer_processing_order.php:54
+#: woocommerce/emails/new_order.php:54
+#@ woothemes
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:57
+#: woocommerce/emails/customer_note_notification.php:61
+#: woocommerce/emails/customer_processing_order.php:57
+#: woocommerce/emails/new_order.php:57
+#@ woothemes
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:60
+#: woocommerce/emails/customer_note_notification.php:64
+#: woocommerce/emails/customer_processing_order.php:60
+#: woocommerce/emails/new_order.php:60
+#@ woothemes
+msgid "Tel:"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:65
+#: woocommerce/emails/customer_note_notification.php:69
+#: woocommerce/emails/customer_processing_order.php:65
+#: woocommerce/emails/new_order.php:65
+#@ woothemes
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/customer_completed_order.php:77
+#: woocommerce/emails/customer_note_notification.php:81
+#: woocommerce/emails/customer_processing_order.php:77
+#: woocommerce/emails/new_order.php:77
+#@ woothemes
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/customer_new_account.php:7
+#, php-format
+#@ woothemes
+msgid "Thanks for registering on %s. Your login details are below:"
+msgstr ""
+
+#: woocommerce/emails/customer_new_account.php:14
+#, php-format
+#@ woothemes
+msgid "You can login to your account area here: %s."
+msgstr ""
+
+#: woocommerce/emails/customer_note_notification.php:7
+#@ woothemes
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: woocommerce/emails/customer_note_notification.php:11
+#@ woothemes
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: woocommerce/emails/customer_pay_for_order.php:9
+#, php-format
+#@ woothemes
+msgid "An order has been created for you on &ldquo;%s&rdquo;. To pay for this order please use the following link: %s"
+msgstr ""
+
+#: woocommerce/emails/customer_pay_for_order.php:15
+#@ woothemes
+msgid "Order #"
+msgstr ""
+
+#: woocommerce/emails/customer_processing_order.php:7
+#@ woothemes
+msgid "Thank you, we are now processing your order. Your order's details are below."
+msgstr ""
+
+#: woocommerce/emails/new_order.php:7
+#@ woothemes
+msgid "You have received an order from"
+msgstr ""
+
+#: woocommerce/emails/new_order.php:7
+#@ woothemes
+msgid ". Their order is as follows:"
+msgstr ""
+
+#: woocommerce/myaccount/login.php:28
+#@ woothemes
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/login.php:56
+#@ woothemes
+msgid "Re-enter password"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#@ woothemes
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+#@ woothemes
+msgid "Your Review"
+msgstr ""
+
+#: wpsc-cart_widget.php:39
+#: wpsc-shopping_cart_page.php:21
+#@ wpsc
+msgid "Total"
+msgstr ""
+
+#: wpsc-cart_widget.php:40
+#@ wpsc
+msgid "excluding shipping and tax"
+msgstr ""
+
+#: wpsc-cart_widget.php:48
+#@ wpsc
+msgid "Empty Your Cart"
+msgstr ""
+
+#: wpsc-cart_widget.php:48
+#@ wpsc
+msgid "Clear cart"
+msgstr ""
+
+#: wpsc-cart_widget.php:57
+#@ wpsc
+msgid "Your shopping cart is empty"
+msgstr ""
+
+#: wpsc-cart_widget.php:58
+#@ wpsc
+msgid "Visit Shop"
+msgstr ""
+
+#: wpsc-cart_widget.php:58
+#@ wpsc
+msgid "Visit the shop"
+msgstr ""
+
+#: wpsc-grid_view.php:79
+#@ wpsc
+msgid "Sale"
+msgstr ""
+
+#: wpsc-grid_view.php:89
+#: wpsc-single_product.php:141
+#@ wpsc
+msgid "Old Price"
+msgstr ""
+
+#: wpsc-grid_view.php:110
+#: wpsc-single_product.php:96
+#@ wpsc
+msgid "Product Options"
+msgstr ""
+
+#: wpsc-grid_view.php:132
+#@ wpsc
+msgid "Sorry, sold out!"
+msgstr ""
+
+#: wpsc-grid_view.php:160
+#: wpsc-list_view.php:146
+#@ wpsc
+msgid "There are no products in this group."
+msgstr ""
+
+#: wpsc-list_view.php:81
+#: wpsc-single_product.php:131
+#@ wpsc
+msgid "Product in stock"
+msgstr ""
+
+#: wpsc-list_view.php:83
+#: wpsc-single_product.php:133
+#@ wpsc
+msgid "Product not in stock"
+msgstr ""
+
+#: wpsc-list_view.php:133
+#: wpsc-single_product.php:188
+#@ wpsc
+msgid "This product has sold out."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:10
+#: wpsc-transaction_results.php:24
+#@ wpsc
+msgid "Oops, there is nothing in your cart."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:10
+#: wpsc-transaction_results.php:24
+#@ wpsc
+msgid "Please visit our shop"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:15
+#@ wpsc
+msgid "Please review your order"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:44
+#@ wpsc
+msgid "No Image"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:60
+#: wpsc-shopping_cart_page.php:92
+#@ wpsc
+msgid "Update"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:73
+#@ wpsc
+msgid "Remove"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:85
+#@ wpsc
+msgid "Coupon is not valid."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:88
+#@ wpsc
+msgid "Enter coupon code"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:97
+#@ wpsc
+msgid "Cost before shipping:"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:123
+#@ wpsc
+msgid "Calculate Shipping Price"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:127
+#@ wpsc
+msgid "Please choose a country below to calculate your shipping costs"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:135
+#@ wpsc
+msgid "Please provide a Zipcode and click Calculate in order to continue."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:141
+#@ wpsc
+msgid "Sorry, online ordering is unavailable to this destination and/or weight. Please double check your destination details."
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:159
+#@ wpsc
+msgid " - Choose a Shipping Rate"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:221
+#@ wpsc
+msgid "You must sign in or register with us to continue with your purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:225
+#@ wpsc
+msgid "Sign in"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:233
+#@ wpsc
+msgid "If you have bought from us before please sign in here to purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:252
+#@ wpsc
+msgid "Join up now"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:260
+#@ wpsc
+msgid "E-mail"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:263
+#@ wpsc
+msgid "Signing up is free and easy! please fill out your details your registration will happen automatically as you checkout. Don't forget to use your details to login with next time!"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:310
+#@ wpsc
+msgid "Same as billing address:"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:312
+#@ wpsc
+msgid "Your order will be shipped to the billing address"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:355
+#@ wpsc
+msgid "Enter your email address"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:393
+#@ wpsc
+msgid "How did you find us"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:396
+#@ wpsc
+msgid "Word of mouth"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:397
+#@ wpsc
+msgid "Advertising"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:398
+#@ wpsc
+msgid "Internet"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:399
+#@ wpsc
+msgid "Existing Customer"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:410
+#@ wpsc
+msgid "Payment Type"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:445
+#, php-format
+#@ wpsc
+msgid "I agree to The <a class='thickbox' target='_blank' href='%s' class='termsandconds'>Terms and Conditions</a>"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:455
+#@ wpsc
+msgid "Review and purchase"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:461
+#@ wpsc
+msgid "Total Shipping"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:484
+#@ wpsc
+msgid "Total Price"
+msgstr ""
+
+#: wpsc-shopping_cart_page.php:499
+#@ wpsc
+msgid "Purchase"
+msgstr ""
+
+#: wpsc-single_product.php:80
+#@ wpsc
+msgid "Personalize Your Product"
+msgstr ""
+
+#: wpsc-single_product.php:81
+#@ wpsc
+msgid "Complete this form to include a personalized message with your purchase."
+msgstr ""
+
+#: wpsc-single_product.php:89
+#@ wpsc
+msgid "Upload a File"
+msgstr ""
+
+#: wpsc-single_product.php:90
+#@ wpsc
+msgid "Select a file from your computer to include with this purchase."
+msgstr ""
+
+#: wpsc-single_product.php:137
+#@ wpsc
+msgid "Donation"
+msgstr ""
+
+#: wpsc-single_product.php:145
+#@ wpsc
+msgid "You save"
+msgstr ""
+
+#: wpsc-user-log.php:17
+#@ wpsc
+msgid "Purchase History"
+msgstr ""
+
+#: wpsc-user-log.php:18
+#@ wpsc
+msgid "Your Details"
+msgstr ""
+
+#: wpsc-user-log.php:19
+#@ wpsc
+msgid "Your Downloads"
+msgstr ""
+
+#: wpsc-user-log.php:40
+#@ wpsc
+msgid "Save Profile"
+msgstr ""
+
+#: wpsc-user-log.php:52
+#@ wpsc
+msgid "File Names"
+msgstr ""
+
+#: wpsc-user-log.php:53
+#@ wpsc
+msgid "Downloads Left"
+msgstr ""
+
+#: wpsc-user-log.php:54
+#: wpsc-user-log.php:106
+#@ wpsc
+msgid "Date"
+msgstr ""
+
+#: wpsc-user-log.php:90
+#@ wpsc
+msgid "You have not purchased any downloadable products yet."
+msgstr ""
+
+#: wpsc-user-log.php:105
+#@ wpsc
+msgid "Status"
+msgstr ""
+
+#: wpsc-user-log.php:111
+#@ wpsc
+msgid "Payment Method"
+msgstr ""
+
+#: wpsc-user-log.php:124
+#@ wpsc
+msgid "No transactions for this month."
+msgstr ""
+
+#: wpsc-user-log.php:137
+#@ wpsc
+msgid "There have not been any purchases yet."
+msgstr ""
+
+#: wpsc-user-log.php:145
+#@ wpsc
+msgid "You must be logged in to use this page. Please use the form below to login to your account."
+msgstr ""
+
+#: wpsc-user-log.php:153
+#@ wpsc
+msgid "Password:"
+msgstr ""
+
+#: wpsc-user-log.php:159
+#@ wpsc
+msgid "Remember me"
+msgstr ""
+
+#: wpsc-user-log.php:164
+#@ wpsc
+msgid "Login &raquo;"
+msgstr ""
+

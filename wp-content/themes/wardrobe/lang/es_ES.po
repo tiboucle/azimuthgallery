@@ -1,0 +1,1630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Colorlabsproject\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-15 12:00+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dadan Arifin <dadanarifin666@gmail.com>\n"
+"Language-Team: Colorlabs Project <sales@colorlabsproject.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: legacy.comments.php:133
+#@ default
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está en espera de moderación."
+
+#: comments.php:46
+#: functions/images/colorpicker/comments.php:20
+#: legacy.comments.php:155
+#@ colabsthemes
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:112
+#: functions/images/colorpicker/comments.php:46
+#@ colabsthemes
+#@ default
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: functions/images/colorpicker/comments.php:47
+#@ default
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: single.php:69
+#@ colabsthemes
+msgid "Sorry, no posts matched your criteria."
+msgstr "Lo siento, no corresponde a sus criterios."
+
+#: page-sitemap.php:19
+#@ default
+msgid "Pages :"
+msgstr "Páginas:"
+
+#: page-sitemap.php:26
+#@ default
+msgid "Categories :"
+msgstr "categorías:"
+
+#: page-sitemap.php:33
+#@ default
+msgid "Monthly Archives :"
+msgstr "Archivos por mes:"
+
+#: page-sitemap.php:40
+#@ default
+msgid "RSS Feed :"
+msgstr ""
+
+#: page-contact.php:17
+#@ colabsthemes
+msgid "You forgot to enter your name."
+msgstr "Se te olvidó que introduzca su nombre."
+
+#: page-contact.php:25
+#@ colabsthemes
+msgid "You forgot to enter your email address."
+msgstr "Se te olvidó que introduzca su dirección de correo electrónico."
+
+#: page-contact.php:28
+#@ colabsthemes
+msgid "You entered an invalid email address."
+msgstr "Ha introducido una dirección de correo electrónico válida."
+
+#: page-contact.php:36
+#@ colabsthemes
+msgid "You forgot to enter your comments."
+msgstr "Se te olvidó escribir sus comentarios."
+
+#: page-contact.php:50
+#@ colabsthemes
+msgid "Contact Form Submission from "
+msgstr "Presentación del Formulario de contacto"
+
+#: functions/admin-shortcodes.php:1503
+#: functions/admin-shortcodes.php:1511
+#: page-contact.php:53
+#: page-contact.php:60
+#@ colabsthemes
+msgid "From: "
+msgstr "De:"
+
+#: functions/admin-shortcodes.php:1503
+#: functions/admin-shortcodes.php:1511
+#: page-contact.php:53
+#@ colabsthemes
+msgid "Reply-To: "
+msgstr ""
+
+#: page-contact.php:59
+#@ colabsthemes
+msgid "You emailed "
+msgstr "Es un correo electrónico"
+
+#: page-contact.php:79
+#@ colabsthemes
+msgid "You forgot to enter your"
+msgstr "Se te olvidó que introduzca su"
+
+#: page-contact.php:87
+#@ colabsthemes
+msgid "You entered an invalid"
+msgstr "que ha introducido no válido"
+
+#: page-contact.php:97
+#@ colabsthemes
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr "<strong>Gracias</strong> Tu email fue enviado con éxito."
+
+#: functions/admin-shortcodes.php:1533
+#: page-contact.php:123
+#@ colabsthemes
+msgid "Your email was successfully sent."
+msgstr "El correo electrónico fue enviado con éxito."
+
+#: page-contact.php:123
+#@ colabsthemes
+msgid "We will reply your message immediately."
+msgstr "Vamos a responder a su mensaje de inmediato."
+
+#: page-contact.php:130
+#@ colabsthemes
+msgid "There was an error submitting the form."
+msgstr "Hubo un error al enviar el formulario."
+
+#: page-contact.php:133
+#@ colabsthemes
+msgid "E-mail has not been setup properly. Please add your contact e-mail."
+msgstr "El correo electrónico no ha sido configurado correctamente. Favor, introduzca su correo electrónico de contacto."
+
+#: comments.php:94
+#: functions/admin-shortcodes.php:1572
+#: legacy.comments.php:183
+#: page-contact.php:140
+#@ colabsthemes
+msgid "Name"
+msgstr "Nombre"
+
+#: functions/admin-shortcodes.php:1583
+#: page-contact.php:148
+#@ colabsthemes
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: functions/admin-shortcodes.php:1594
+#: page-contact.php:157
+#@ colabsthemes
+msgid "Message"
+msgstr "Mensaje"
+
+#: functions/admin-shortcodes.php:1730
+#: page-contact.php:166
+#@ colabsthemes
+msgid "Send a copy of this email to yourself"
+msgstr "Enviar una copia de este correo electrónico a ti mismo"
+
+#: functions/admin-shortcodes.php:1739
+#: page-contact.php:170
+#@ colabsthemes
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr "Si quieres enviar este formulario, no ingrese nada en este campo"
+
+#: functions/admin-shortcodes.php:1122
+#: page-contact.php:173
+#@ colabsthemes
+msgid "Submit"
+msgstr ""
+
+#: comments.php:29
+#: includes/theme-functions.php:261
+#: legacy.comments.php:112
+#: single.php:15
+#@ colabsthemes
+msgid "No Comment"
+msgstr "Sin comentarios"
+
+#: comments.php:29
+#: includes/theme-functions.php:263
+#: legacy.comments.php:112
+#: single.php:15
+#@ colabsthemes
+msgid "One Comment"
+msgstr "Un Comentario"
+
+#: comments.php:29
+#: includes/theme-functions.php:263
+#: legacy.comments.php:112
+#: single.php:15
+#@ colabsthemes
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: functions/admin-interface.php:197
+#@ colabsthemes
+msgid "Custom File Editor"
+msgstr "Editor de archivos personalizados"
+
+#: functions/admin-interface.php:240
+#@ colabsthemes
+msgid "Readme"
+msgstr "Léame"
+
+#: functions/admin-interface.php:399
+#@ colabsthemes
+msgid "Framework"
+msgstr "Marco"
+
+#: functions/admin-interface.php:1674
+#@ colabsthemes
+msgid "New Version"
+msgstr "Nueva Versión"
+
+#: functions/admin-interface.php:1675
+#@ colabsthemes
+msgid "New Feature"
+msgstr "Lo nuevo"
+
+#: functions/admin-interface.php:1676
+#@ colabsthemes
+msgid "Bugfix"
+msgstr "Solución de error"
+
+#: functions/admin-interface.php:1696
+#@ colabsthemes
+msgid "Theme update is available"
+msgstr "Tema de actualización está disponible"
+
+#: functions/admin-interface.php:1696
+#@ colabsthemes
+msgid "Get the new version"
+msgstr "obtener la nueva versión"
+
+#: functions/admin-interface.php:1696
+#, php-format
+#@ colabsthemes
+msgid "Update Type: %s"
+msgstr "Tipo de actualización: %s"
+
+#: functions/admin-interface.php:1741
+#, php-format
+#@ colabsthemes
+msgid "Theme update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr "Tema de actualización está disponible (v%s). %sDownload nueva versión%s (%sSEE de cambios de%s)"
+
+#: functions/admin-backup.php:73
+#@ colabsthemes
+msgid "ColorLabs Import/Export Settings"
+msgstr ""
+
+#: functions/admin-backup.php:73
+#@ colabsthemes
+msgid "Import/Export Settings"
+msgstr "Importar / Exportar Configuración"
+
+#: functions/admin-backup.php:132
+#@ colabsthemes
+msgid "Import Settings"
+msgstr "Configuración de importación"
+
+#: functions/admin-backup.php:134
+#@ colabsthemes
+msgid "If you have settings in a backup file on your computer, the ColorLabs Framework can import those into this site. To get started, upload your backup file to import from below."
+msgstr "Si tienes la configuración en un archivo de copia de seguridad en su ordenador, el Marco ColorLabs puede importar aquellos en este sitio. Para empezar, subir el archivo de copia de seguridad para importar desde abajo"
+
+#: functions/admin-backup.php:139
+#, php-format
+#@ colabsthemes
+msgid "Upload File: (Maximum Size: %s)"
+msgstr "Upload File: (Tamaño máximo: %s)"
+
+#: functions/admin-backup.php:142
+#@ colabsthemes
+msgid "Upload File and Import"
+msgstr "Subir archivo e Importación"
+
+#: functions/admin-backup.php:151
+#@ colabsthemes
+msgid "Export Settings"
+msgstr "Configuración de exportación"
+
+#: functions/admin-backup.php:153
+#@ colabsthemes
+msgid "When you click the button below, the ColorLabs Framework will create a text file for you to save to your computer."
+msgstr "Al hacer clic en el botón de abajo, el Marco ColorLabs creará un archivo de texto para que usted pueda guardar en su ordenador."
+
+#: functions/admin-backup.php:154
+#, php-format
+#@ colabsthemes
+msgid "This text file can be used to restore your settings here on \"%s\", or to easily setup another website with the same settings\"."
+msgstr "Este archivo de texto se puede utilizar para restaurar la configuración de aquí en \"%s\", o para configurar fácilmente a otra página web con la misma configuración \"."
+
+#: functions/admin-backup.php:158
+#@ colabsthemes
+msgid "All Settings"
+msgstr "Todos los ajustes"
+
+#: functions/admin-backup.php:159
+#@ colabsthemes
+msgid "This will contain all of the options listed below."
+msgstr ", que contendrá todas las opciones se enumeran a continuación."
+
+#: functions/admin-backup.php:161
+#: functions/admin-functions.php:2941
+#: functions/admin-interface-functions.php:52
+#@ colabsthemes
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: functions/admin-backup.php:163
+#: functions/admin-interface-functions.php:62
+#@ colabsthemes
+msgid "SEO Settings"
+msgstr "SEO Configuración"
+
+#: functions/admin-backup.php:165
+#: functions/admin-functions.php:2945
+#@ colabsthemes
+msgid "Sidebar Manager"
+msgstr "Administrador de la barra lateral"
+
+#: functions/admin-backup.php:165
+#@ colabsthemes
+msgid "This will contain only the custom sidebars themselves and not the widgets within them"
+msgstr "Esto va a contener sólo las barras laterales personalizadas sí mismos y no los widgets dentro de ellos"
+
+#: functions/admin-backup.php:167
+#: functions/admin-framework-settings.php:199
+#: functions/admin-functions.php:2956
+#@ colabsthemes
+#@ default
+msgid "Framework Settings"
+msgstr "Configuración de Marco"
+
+#: functions/admin-backup.php:170
+#@ colabsthemes
+msgid "Download Export File"
+msgstr "Descargar archivo de exportación"
+
+#: functions/admin-backup.php:211
+#@ colabsthemes
+msgid "Welcome to the ColorLabs Import/Export Manager."
+msgstr "Bienvenido a la ColorLabs Import/Export Manager."
+
+#: functions/admin-backup.php:212
+#@ colabsthemes
+msgid "Here are a few notes on using this screen."
+msgstr "Aquí están algunas notas sobre el uso de esta pantalla."
+
+#: functions/admin-backup.php:213
+#@ colabsthemes
+msgid "The backup manager allows you to backup or restore your \"Theme Options\" and other settings to or from a text file."
+msgstr "El administrador de copia de seguridad le permite hacer copias de seguridad o restaurar sus \"Opciones del tema\" y otros ajustes hacia o desde un archivo de texto."
+
+#: functions/admin-backup.php:214
+#@ colabsthemes
+msgid "To create a backup, simply select the setting type you'd like to backup (or \"All Settings\") and hit the \"Download Export File\" button."
+msgstr "Para crear una copia de seguridad, sólo tiene que seleccionar el tipo de ajuste que le gustaría hacer copias de seguridad (o \" todos los ajustes  \") y pulsa el \" Descargar archivo de exportación  \"botón"
+
+#: functions/admin-backup.php:215
+#@ colabsthemes
+msgid "To restore your settings from a backup, browse your computer for the file (under the \"Import Settings\" heading) and hit the \"Upload File and Import\" button. This will restore only the settings that have changed since the backup."
+msgstr "Para restaurar la configuración de una copia de seguridad, buscar en tu ordenador el archivo (en el marco del \" Configuración de importación  \"la partida) y pulsa el \" Subir archivo e importar el botón  \". Esto restaurará sólo la configuración que han cambiado desde la copia de seguridad. "
+
+#: functions/admin-backup.php:217
+#@ colabsthemes
+msgid "Please note that only valid backup files generated through the ColorLabs Import/Export Manager should be imported."
+msgstr "Por favor, tenga en cuenta que sólo los archivos de copia de seguridad válidos generados a través de la ColorLabs Import / Export Manager debe importar."
+
+#: functions/admin-backup.php:219
+#@ colabsthemes
+msgid "Looking for assistance?"
+msgstr "En busca de ayuda?"
+
+#: functions/admin-backup.php:220
+#, php-format
+#@ colabsthemes
+msgid "Please post your query on the %sColorLabs Support Forums%s where we will do our best to assist you further."
+msgstr "Por favor enviar su consulta en el %sColorLabs Soporte Foros%s, donde haremos nuestro mejor esfuerzo para ayudar aún más."
+
+#: functions/admin-backup.php:240
+#, php-format
+#@ colabsthemes
+msgid "Please note that this backup manager backs up only your settings and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr "Por favor, tenga en cuenta que este gestor de copias de seguridad de copia de seguridad sólo la configuración y no su contenido. Para copias de seguridad de su contenido, por favor use la herramienta %sde exportación WordPres%s"
+
+#: functions/admin-backup.php:243
+#@ colabsthemes
+msgid "There was a problem importing your settings. Please Try again."
+msgstr "Hubo un problema al importar la configuración. Por favor, inténtelo de nuevo."
+
+#: functions/admin-backup.php:245
+#@ colabsthemes
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr "Hubo un problema al exportar la configuración. Por favor, inténtelo de nuevo."
+
+#: functions/admin-backup.php:247
+#@ colabsthemes
+msgid "The import file you've provided is invalid. Please try again."
+msgstr "El archivo de importación que ha proporcionado no es válido. Por favor, inténtelo de nuevo."
+
+#: functions/admin-backup.php:249
+#, php-format
+#@ colabsthemes
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr "Configuración importado con éxito |. Volver a %s Theme Opciones%s"
+
+#: functions/install-script.php:757
+#@ cp
+msgid "This category was automatically created by ColorLabs. All your blog posts should be assigned to this category or a sub-category under blog."
+msgstr "Esta categoría fue creada automáticamente por ColorLabs. Todas las entradas del blog debe ser asignado a esta categoría o una subcategoría en blog"
+
+#: functions/admin-custom.php:507
+#@ colabsthemes
+msgid " Custom Settings"
+msgstr "Configuración personalizada"
+
+#: functions/admin-interface-functions.php:72
+#@ colabsthemes
+msgid "Layout Settings"
+msgstr "Configuración de diseño"
+
+#: functions/admin-interface-functions.php:80
+#@ colabsthemes
+msgid "Updates"
+msgstr "Actualizaciones"
+
+#: functions/admin-sbm.php:877
+#@ default
+msgid "Sidebar Settings"
+msgstr "barra lateral"
+
+#: functions/admin-shortcodes.php:477
+#@ colabsthemes
+msgid "No related posts found"
+msgstr "No related posts encontrado"
+
+#: functions/admin-shortcodes.php:1001
+#@ colabsthemes
+msgid "Hide the Content"
+msgstr "ocultar el contenido"
+
+#: functions/admin-shortcodes.php:1002
+#@ colabsthemes
+msgid "Show the Content"
+msgstr "Mostrar el contenido"
+
+#: functions/admin-shortcodes.php:1009
+#@ colabsthemes
+msgid "Read More"
+msgstr "Leer más"
+
+#: functions/admin-shortcodes.php:1010
+#@ colabsthemes
+msgid "Read Less"
+msgstr "Leer menos"
+
+#: functions/admin-shortcodes.php:1121
+#@ colabsthemes
+msgid "Message via the contact form"
+msgstr "El mensaje a través del formulario de contacto"
+
+#: functions/admin-shortcodes.php:1418
+#@ colabsthemes
+msgid "Please enter your name"
+msgstr "Por favor, ingrese su nombre"
+
+#: functions/admin-shortcodes.php:1419
+#@ colabsthemes
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr "Por favor, introduzca su dirección de correo electrónico (y por favor asegúrese de que sea válido)"
+
+#: functions/admin-shortcodes.php:1420
+#@ colabsthemes
+msgid "Please enter your message"
+msgstr "Por favor, introduzca su mensaje"
+
+#: functions/admin-shortcodes.php:1542
+#@ colabsthemes
+msgid "There were one or more errors while submitting the form."
+msgstr "Había uno o más errores al enviar el formulario."
+
+#: functions/admin-shortcodes.php:1550
+#@ colabsthemes
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr "El correo electrónico no ha sido configurado correctamente. Favor, introduzca su correo electrónico de contacto!"
+
+#: functions/admin-shortcodes.php:2114
+#: functions/admin-shortcodes.php:2164
+#: functions/admin-shortcodes.php:2180
+#, php-format
+#@ colabsthemes
+msgid "My %s Profile"
+msgstr "Mi %s perfil"
+
+#: functions/admin-shortcodes.php:2135
+#@ colabsthemes
+msgid "Subscribe to our RSS feed"
+msgstr "Suscríbete a nuestro feed RSS"
+
+#: functions/admin-shortcodes.php:2477
+#: includes/widgets/widget-colabs-twitter.php:26
+#@ colabsthemes
+msgid "Follow"
+msgstr "Seguir"
+
+#: functions/admin-editor.php:29
+#: functions/admin-editor.php:31
+#: functions/admin-editor.php:33
+#: functions/admin-editor.php:35
+#: functions/admin-editor.php:182
+#@ colabsthemes
+msgid "Attention!"
+msgstr "¡Atención!"
+
+#: functions/admin-editor.php:29
+#@ colabsthemes
+msgid "For security reasons, the file you are attempting to edit cannot be modified via this screen."
+msgstr "Por razones de seguridad, el archivo que está intentando editar no puede ser modificado a través de esta pantalla."
+
+#: functions/admin-editor.php:31
+#@ colabsthemes
+msgid "Your <code>custom/</code> directory does not appear to exist. Have you remembered to rename <code>/custom-sample</code>?"
+msgstr "El <code>custom/</code> no parece existir. ¿Te has acordado de cambiar el nombre <code>/medida de la muestra</code>?"
+
+#: functions/admin-editor.php:33
+#@ colabsthemes
+msgid "The file you are attempting does not appear to exist."
+msgstr "El archivo que está intentando no parece existir."
+
+#: functions/admin-editor.php:35
+#, php-format
+#@ colabsthemes
+msgid "Your <code>/custom/%s</code> file is not writable by the server, and in order to modify the file via the admin panel, Backbone needs to be able to write to this file. All you have to do is set this file&#8217;s permissions to 666, and you&#8217;ll be good to go."
+msgstr "El <code>/custom/%s</code> no es escribible por el servidor, y con el fin de modificar el archivo a través del panel de administración, columna vertebral tiene que ser capaz de escribir en este archivo. Todo lo que tiene que Qué es establecer los permisos de este archivo a 666, y usted estará listo para salir. "
+
+#: functions/admin-editor.php:47
+#@ colabsthemes
+msgid "You don&#8217;t have admin privileges to access theme options."
+msgstr "No tiene privilegios de administrador para acceder a las opciones del tema."
+
+#: functions/admin-editor.php:58
+#@ colabsthemes
+msgid "You have attempted to modify an ineligible file. Only files within the ColorLabs <code>/custom</code> folder may be modified via this interface. Thank you."
+msgstr "Se ha intentado modificar un archivo de elegibles. Sólo los archivos dentro de la <code> ColorLabs / personalizada </ code> carpeta puede ser modificado a través de esta interfaz. Gracias."
+
+#: functions/admin-editor.php:128
+#, php-format
+#@ colabsthemes
+msgid "Currently editing: <code>%s</code>"
+msgstr "En la actualidad la edición: <code>%s</code>"
+
+#: functions/admin-editor.php:138
+#@ colabsthemes
+msgid "Edit selected file"
+msgstr "Editar el archivo seleccionado"
+
+#: functions/admin-editor.php:143
+#@ colabsthemes
+msgid "<strong>Note:</strong> If you make a mistake in your code while modifying a <acronym title=\"PHP: Hypertext Preprocessor\">PHP</acronym> file, saving this page <em>may</em> result your site becoming temporarily unusable. Prior to editing such files, be sure to have access to the file via <acronym title=\"File Transfer Protocol\">FTP</acronym> or other means so that you can correct the error."
+msgstr "<strong>Nota:</strong> Si usted comete un error en el código, mientras que la modificación de un <acronym title=\"PHP: Preprocessor hipertexto\"> PHP </acronym> archivo, guardar esta página <em> de mayo </em> Resultado de su sitio convirtiendo temporalmente inutilizable. Antes de editar este tipo de archivos, asegúrese de tener acceso al expediente a través de <acronym title=\"File transferencia Protocol\"> FTP </acronym> o por otros medios para que pueda corregir el error. "
+
+#: functions/admin-editor.php:160
+#: functions/admin-editor.php:205
+#@ colabsthemes
+msgid "Color Reference"
+msgstr "de referencia del color"
+
+#: functions/admin-editor.php:182
+#@ colabsthemes
+msgid "In order to edit your custom files, you&#8217;ll need to change the name of your <code>custom-sample</code> folder to <code>custom</code>."
+msgstr "Con el fin de editar tus archivos personalizados, tendrá que cambiar el nombre de su <code> medida de la muestra </code> carpeta para <code> personalizada </code>."
+
+#: functions/admin-editor.php:206
+#@ colabsthemes
+msgid "Color reference for custom file editor"
+msgstr "El color de referencia para el editor de archivo personalizado"
+
+#: functions/admin-medialibrary-uploader.php:66
+#@ default
+msgid "CoLabsFramework Internal Container"
+msgstr "Contenedor CoLabsFramework interna"
+
+#: functions/admin-medialibrary-uploader.php:192
+#@ default
+msgid "Upload"
+msgstr "Subir"
+
+#: functions/admin-medialibrary-uploader.php:229
+#@ colabsthemes
+msgid "View File"
+msgstr "Ver archivo"
+
+#: functions/admin-medialibrary-uploader.php:422
+#@ colabsthemes
+msgid "Gallery"
+msgstr "Galería"
+
+#: functions/admin-medialibrary-uploader.php:422
+#@ colabsthemes
+msgid "Previously Uploaded"
+msgstr "subió con anterioridad"
+
+#: functions/admin-readme.php:29
+#@ colabsthemes
+msgid " - README.txt Theme File"
+msgstr "- Tema del archivo README.txt"
+
+#: functions/admin-functions.php:1435
+#: search.php:7
+#@ colabsthemes
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: functions/admin-functions.php:1436
+#@ colabsthemes
+msgid "Author Archives"
+msgstr "Archivo del Autor"
+
+#: functions/admin-functions.php:1439
+#@ colabsthemes
+msgid "Category Archive"
+msgstr "Archivo de la categoría"
+
+#: functions/admin-functions.php:1440
+#: functions/admin-functions.php:1445
+#@ colabsthemes
+msgid " Archive"
+msgstr "Archivo"
+
+#: functions/admin-functions.php:1441
+#@ colabsthemes
+msgid "Daily Archive"
+msgstr "del archivo de cada día"
+
+#: functions/admin-functions.php:1442
+#@ colabsthemes
+msgid "Monthly Archive"
+msgstr "Archivo Mensual"
+
+#: functions/admin-functions.php:1443
+#@ colabsthemes
+msgid "Yearly Archive"
+msgstr "Archivo Anual"
+
+#: functions/admin-functions.php:1444
+#@ colabsthemes
+msgid "Tag Archive"
+msgstr ""
+
+#: functions/admin-functions.php:2354
+#@ colabsthemes
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior "
+
+#: functions/admin-functions.php:2473
+#@ colabsthemes
+msgid "You are here:"
+msgstr "Usted está aquí:"
+
+#: 404.php:4
+#: archive.php:9
+#: archive.php:12
+#: archive.php:14
+#: archive.php:16
+#: archive.php:18
+#: archive.php:21
+#: archive.php:39
+#: author.php:15
+#: author.php:39
+#: functions/admin-functions.php:2476
+#: functions.php:60
+#: functions.php:75
+#: page-blog.php:10
+#: page-contact.php:114
+#: page-fullwidth.php:14
+#: page-leftsidebar.php:14
+#: page-sitemap.php:14
+#: page.php:9
+#: search.php:5
+#: single.php:12
+#@ colabsthemes
+#@ default
+msgid "Home"
+msgstr ""
+
+#: functions/admin-functions.php:2641
+#@ colabsthemes
+msgid "g:i a"
+msgstr ""
+
+#: functions/admin-functions.php:2644
+#, php-format
+#@ colabsthemes
+msgid "Minute %1$s"
+msgstr "Minuto %1$s"
+
+#: functions/admin-functions.php:2644
+#@ colabsthemes
+msgid "i"
+msgstr ""
+
+#: functions/admin-functions.php:2647
+#@ colabsthemes
+msgid "g a"
+msgstr ""
+
+#: functions/admin-functions.php:2658
+#: functions/admin-functions.php:2664
+#: functions/admin-functions.php:2669
+#: functions/admin-functions.php:2674
+#@ colabsthemes
+msgid "Y"
+msgstr ""
+
+#: functions/admin-functions.php:2659
+#: functions/admin-functions.php:2670
+#@ colabsthemes
+msgid "F"
+msgstr ""
+
+#: functions/admin-functions.php:2660
+#@ colabsthemes
+msgid "j"
+msgstr ""
+
+#: functions/admin-functions.php:2665
+#, php-format
+#@ colabsthemes
+msgid "Week %1$s"
+msgstr "Semana de %1$s"
+
+#: functions/admin-functions.php:2681
+#, php-format
+#@ colabsthemes
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Resultados de la búsqueda para &quot;%1$s&quot;"
+
+#: functions/admin-functions.php:2685
+#@ colabsthemes
+msgid "404 Not Found"
+msgstr ""
+
+#: functions/admin-functions.php:2930
+#@ colabsthemes
+msgid "ColorLabs Project"
+msgstr ""
+
+#: functions/admin-functions.php:2950
+#@ colabsthemes
+msgid "SEO Manager"
+msgstr "Administrador de SEO"
+
+#: functions/admin-functions.php:2959
+#@ colabsthemes
+msgid "Update Framework"
+msgstr "Actualización de Marco"
+
+#: functions/admin-dashboard.php:31
+#@ colabsthemes
+msgid "Dashboard"
+msgstr ""
+
+#: functions/admin-dashboard.php:45
+#@ colabsthemes
+msgid "Info"
+msgstr "Información"
+
+#: functions/admin-dashboard.php:51
+#@ colabsthemes
+msgid "Product Version"
+msgstr "Versión del producto"
+
+#: functions/admin-dashboard.php:52
+#@ colabsthemes
+msgid "Framework Version"
+msgstr ""
+
+#: functions/admin-dashboard.php:55
+#@ colabsthemes
+msgid "Product Support"
+msgstr ""
+
+#: functions/admin-dashboard.php:55
+#@ colabsthemes
+msgid "Submit a Support Ticket"
+msgstr ""
+
+#: functions/admin-dashboard.php:55
+#@ colabsthemes
+msgid "Theme Documentation"
+msgstr "Documentación Tema"
+
+#: functions/admin-dashboard.php:69
+#@ colabsthemes
+msgid "ColorLabs News"
+msgstr "Noticias ColorLabs"
+
+#: functions/admin-dashboard.php:90
+#@ colabsthemes
+msgid "ColorLabs Tweets"
+msgstr "tweets ColorLabs"
+
+#: functions/admin-dashboard.php:106
+#@ colabsthemes
+msgid "ColorLabs Support"
+msgstr "Apoyo ColorLabs"
+
+#: functions/js/shortcode-generator/dialog.php:51
+#@ colabsthemes
+msgid "Customize the Shortcode"
+msgstr "Personalizar el código corto"
+
+#: functions/js/shortcode-generator/dialog.php:60
+#@ colabsthemes
+msgid "Preview"
+msgstr "Vista previa"
+
+#: functions/js/shortcode-generator/dialog.php:74
+#@ colabsthemes
+msgid "Shortcode Generator Error"
+msgstr "Error Generador de código corto"
+
+#: functions/js/shortcode-generator/dialog.php:77
+#, php-format
+#@ colabsthemes
+msgid "Your version of the CoLabsFramework (%s) does not yet support shortcodes. Shortcodes were introduced with version %s of the framework."
+msgstr "La versión de la CoLabsFramework (%s) no es compatible aún con cortos. Shortcodes fueron introducidos con la versión% s de la estructura."
+
+#: functions/js/shortcode-generator/dialog.php:79
+#: functions/js/shortcode-generator/dialog.php:93
+#@ colabsthemes
+msgid "What to do now?"
+msgstr "¿Qué hacer ahora?"
+
+#: functions/js/shortcode-generator/dialog.php:81
+#@ colabsthemes
+msgid "Upgrading your theme, or rather the CoLabsFramework portion of it, will do the trick."
+msgstr "Actualización del tema, o más bien la parte CoLabsFramework de la misma, hará el truco."
+
+#: functions/js/shortcode-generator/dialog.php:83
+#, php-format
+#@ colabsthemes
+msgid "The framework is a collection of functionality that all CoLabsThemes have in common. In most cases you can update the framework even if you have modified your theme, because the framework resides in a separate location (under %s)."
+msgstr "El marco es un conjunto de funcionalidades que todos los CoLabsThemes tienen en común. En la mayoría de los casos se puede actualizar el marco, incluso si ha modificado su tema, ya que el marco se encuentra en un lugar separado (en %s)"
+
+#: functions/js/shortcode-generator/dialog.php:85
+#, php-format
+#@ colabsthemes
+msgid "There's a tutorial on how to do this on colorlabsproject.com: %sHow to upgradeyour theme%s."
+msgstr "Hay un tutorial sobre cómo hacer esto en colorlabsproject.com: Mostrar %scon el tema upgradeyour%s"
+
+#: functions/js/shortcode-generator/dialog.php:87
+#@ colabsthemes
+msgid "<strong>Remember:</strong> Always backup your theme before you update it or make changes to it."
+msgstr "<strong> Recuerde: </strong> Siempre copia de seguridad el tema antes de actualizar o hacer cambios en él."
+
+#: functions/js/shortcode-generator/dialog.php:91
+#@ colabsthemes
+msgid "Looks like your active theme is not from ColorLabs. The shortcode generator only works with themes from ColorLabs."
+msgstr "Parece que el tema activo no es de ColorLabs. El generador de código abreviado sólo funciona con los temas de ColorLabs"
+
+#: functions/js/shortcode-generator/dialog.php:95
+#@ colabsthemes
+msgid "Pick a fight: (1) If you already have a theme from ColorLabs, install and activate it or (2) if you don't yet have one of the awesome ColorLabs theme head over to the <a href=\"http://colorlabsproject.com/themes/\" target=\"_blank\" title=\"ColorLabs Gallery\">ColorLabs Gallery</a> and get one."
+msgstr "una pelea: (1) Si usted ya tiene un tema de ColorLabs, instalar y activarlo o (2) si usted todavía no tiene uno de la cabeza el tema increíble ColorLabs a la <a href=\"http://colorlabsproject.com/themes/\" target=\"_blank\" title=\"ColorLabs Gallery\"> ColorLabs Galería </a> y conseguir uno."
+
+#: footer.php:151
+#@ colabsthemes
+msgid "Powered by"
+msgstr ""
+
+#: includes/theme-functions.php:90
+#@ colabsthemes
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas más antiguas"
+
+#: includes/theme-functions.php:91
+#@ colabsthemes
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Los nuevos mensajes <span class=\"meta-nav\">&rarr;</span>"
+
+#: includes/theme-functions.php:165
+#@ colabsthemes
+msgid "on "
+msgstr "en "
+
+#: includes/theme-options.php:73
+#@ colabsthemes
+msgid "Main Layout"
+msgstr "Diseño principal"
+
+#: comments.php:100
+#: legacy.comments.php:189
+#@ colabsthemes
+msgid "Website"
+msgstr "Sitio Web"
+
+#: legacy.comments.php:197
+#@ colabsthemes
+msgid "Submit Comment"
+msgstr "Comentario"
+
+#: includes/widgets/widget-colabs-tabs.php:10
+#@ colabsthemes
+msgid "ColorLabs - Tabs"
+msgstr ""
+
+#: includes/widgets/widget-colabs-categoryspoiler.php:107
+#: includes/widgets/widget-colabs-tabs.php:29
+#: includes/widgets/widget-colabs-tabs.php:34
+#: includes/widgets/widget-colabs-tabs.php:115
+#: includes/widgets/widget-colabs-tabs.php:125
+#@ colabsthemes
+msgid "Latest"
+msgstr "Último"
+
+#: includes/widgets/widget-colabs-tabs.php:30
+#: includes/widgets/widget-colabs-tabs.php:35
+#: includes/widgets/widget-colabs-tabs.php:116
+#: includes/widgets/widget-colabs-tabs.php:128
+#@ colabsthemes
+msgid "Comments"
+msgstr "Comentarios"
+
+#: includes/widgets/widget-colabs-tabs.php:31
+#: includes/widgets/widget-colabs-tabs.php:36
+#: includes/widgets/widget-colabs-tabs.php:117
+#: includes/widgets/widget-colabs-tabs.php:131
+#@ colabsthemes
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/widget-colabs-tabs.php:33
+#: includes/widgets/widget-colabs-tabs.php:114
+#: includes/widgets/widget-colabs-tabs.php:122
+#@ colabsthemes
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/widget-colabs-tabs.php:102
+#@ colabsthemes
+msgid "Number of posts:"
+msgstr "Número de mensajes:"
+
+#: includes/widgets/widget-colabs-tabs.php:107
+#@ colabsthemes
+msgid "Thumbnail Size (0=disable):"
+msgstr "Tamaño de miniatura (0=desactivar):"
+
+#: includes/widgets/widget-colabs-tabs.php:112
+#@ colabsthemes
+msgid "First Visible Tab:"
+msgstr "la primera ficha visible:"
+
+#: includes/widgets/widget-colabs-ads.php:65
+#: includes/widgets/widget-colabs-author.php:60
+#: includes/widgets/widget-colabs-flickr.php:42
+#: includes/widgets/widget-colabs-twitter.php:46
+#@ colabsthemes
+msgid "Title (optional):"
+msgstr "Título (opcional):"
+
+#: includes/widgets/widget-colabs-ads.php:69
+#@ colabsthemes
+msgid "Ad Code:"
+msgstr "Código del anuncio:"
+
+#: includes/widgets/widget-colabs-ads.php:74
+#@ colabsthemes
+msgid "Image Url:"
+msgstr "Url de la imagen:"
+
+#: includes/widgets/widget-colabs-ads.php:78
+#@ colabsthemes
+msgid "Link URL:"
+msgstr ""
+
+#: includes/widgets/widget-colabs-ads.php:82
+#@ colabsthemes
+msgid "Alt text:"
+msgstr "Alt texto:"
+
+#: includes/widgets/widget-colabs-flickr.php:10
+#@ colabsthemes
+msgid "ColorLabs - Flickr"
+msgstr ""
+
+#: includes/widgets/widget-colabs-flickr.php:46
+#@ colabsthemes
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "de Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: includes/widgets/widget-colabs-flickr.php:50
+#@ colabsthemes
+msgid "Number:"
+msgstr "Número:"
+
+#: includes/widgets/widget-colabs-categoryspoiler.php:108
+#@ colabsthemes
+msgid "Random"
+msgstr "al azar"
+
+#: includes/widgets/widget-colabs-embed.php:121
+#@ colabsthemes
+msgid "Size:"
+msgstr "Tamaño:"
+
+#: includes/widgets/widget-colabs-embed.php:99
+#@ colabsthemes
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/widgets/widget-colabs-author.php:72
+#@ colabsthemes
+msgid "Gravatar Size:"
+msgstr "Tamaño Gravatar:"
+
+#: includes/widgets/widget-colabs-author.php:76
+#@ colabsthemes
+msgid "Visible Pages:"
+msgstr "Páginas visible:"
+
+#: includes/widgets/widget-colabs-author.php:78
+#@ colabsthemes
+msgid "All"
+msgstr "Todos"
+
+#: includes/widgets/widget-colabs-author.php:79
+#@ colabsthemes
+msgid "Home only"
+msgstr "Sólo en casa"
+
+#: includes/widgets/widget-colabs-author.php:80
+#@ colabsthemes
+msgid "Single only"
+msgstr "De un solo"
+
+#: includes/widgets/widget-colabs-embed.php:103
+#@ colabsthemes
+msgid "Category:"
+msgstr "Categoría:"
+
+#: includes/widgets/widget-colabs-embed.php:116
+#@ colabsthemes
+msgid "Tag:"
+msgstr "Etiqueta"
+
+#: includes/widgets/widget-colabs-embed.php:128
+#@ colabsthemes
+msgid "Limit (optional):"
+msgstr "límite (opcional):"
+
+#: includes/widgets/widget-colabs-twitter.php:26
+#@ colabsthemes
+msgid "on Twitter"
+msgstr "en Twitter"
+
+#: includes/widgets/widget-colabs-twitter.php:50
+#@ colabsthemes
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+#: includes/widgets/widget-colabs-twitter.php:54
+#@ colabsthemes
+msgid "Limit:"
+msgstr "Límite"
+
+#: 404.php:4
+#@ colabsthemes
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:5
+#@ colabsthemes
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - No se ha encontrado"
+
+#: 404.php:6
+#@ colabsthemes
+msgid "Ooops, We cannot find you the page you are looking for. You may try to search our site for another keyword or use the navigational tools in this website."
+msgstr "Lamentablemente, no podemos encontrar la página que está buscando. Usted puede tratar de buscar en nuestro sitio para otra palabra clave o utilizar las herramientas de navegación en este sitio web."
+
+#: archive.php:9
+#@ colabsthemes
+msgid "Archive by Category"
+msgstr "Archivo por categoría"
+
+#: archive.php:10
+#@ colabsthemes
+msgid "Articles in "
+msgstr "en los artículos"
+
+#: archive.php:12
+#@ colabsthemes
+msgid "Archive by Tags"
+msgstr "Archivo por Etiquetas"
+
+#: archive.php:12
+#@ colabsthemes
+msgid "Articles tagged with: "
+msgstr "Los artículos etiquetados con"
+
+#: archive.php:14
+#@ colabsthemes
+msgid "Archive by Day"
+msgstr "Archivar por día"
+
+#: archive.php:14
+#: archive.php:16
+#: archive.php:18
+#@ colabsthemes
+msgid "Article Archive for "
+msgstr "Archivo de artículos para"
+
+#: archive.php:16
+#@ colabsthemes
+msgid "Archive by Month"
+msgstr "Archivar por mes"
+
+#: archive.php:18
+#@ colabsthemes
+msgid "Archive by Year"
+msgstr "Año de Archivo"
+
+#: archive.php:18
+#@ colabsthemes
+msgid "Year"
+msgstr "Año"
+
+#: archive.php:21
+#: archive.php:39
+#: author.php:39
+#: sidebar.php:14
+#@ colabsthemes
+msgid "Archive"
+msgstr "Archivo"
+
+#: archive.php:22
+#@ colabsthemes
+msgid "The Archive"
+msgstr "El Archivo"
+
+#: archive.php:40
+#: author.php:40
+#@ colabsthemes
+msgid "Not Found"
+msgstr ""
+
+#: archive.php:42
+#: author.php:42
+#: search.php:30
+#@ colabsthemes
+msgid "No posts found. Try a different search?"
+msgstr "No hay mensajes encontrados. Intente una búsqueda diferente?"
+
+#: author.php:15
+#@ colabsthemes
+msgid "Archive by Author"
+msgstr "Archivo por Autor"
+
+#: author.php:16
+#@ colabsthemes
+msgid "Articles by"
+msgstr "por parte de los artículos"
+
+#: comments.php:7
+#: legacy.comments.php:9
+#@ colabsthemes
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada está protegida por contraseña. Introduzca la contraseña para ver los comentarios."
+
+#: comments.php:32
+#@ colabsthemes
+msgid "Reply to this comment &raquo;"
+msgstr "Responder a este comentario &raquo;"
+
+#: comments.php:59
+#@ colabsthemes
+msgid "Pingbacks"
+msgstr ""
+
+#: comments.php:62
+#@ colabsthemes
+msgid "Reply to this pingback &raquo;"
+msgstr "Responder a este pingback &raquo;"
+
+#: comments.php:71
+#: legacy.comments.php:164
+#@ colabsthemes
+msgid "Leave a comment!"
+msgstr "Deja un comentario!"
+
+#: comments.php:71
+#, php-format
+#@ colabsthemes
+msgid "Leave a comment to %s"
+msgstr "Deja un comentario a %s"
+
+#: comments.php:74
+#@ colabsthemes
+msgid "Click here to cancel reply &raquo;"
+msgstr "Haga clic aquí para cancelar la respuesta &raquo;"
+
+#: comments.php:78
+#: legacy.comments.php:167
+#@ colabsthemes
+msgid "You must be"
+msgstr "debe ser"
+
+#: comments.php:78
+#: legacy.comments.php:167
+#@ colabsthemes
+msgid "logged in"
+msgstr "conectado"
+
+#: comments.php:78
+#: legacy.comments.php:167
+#@ colabsthemes
+msgid "to post a comment."
+msgstr "para publicar un comentario."
+
+#: comments.php:85
+#: legacy.comments.php:174
+#@ colabsthemes
+msgid "Logged in as"
+msgstr "Conectado como"
+
+#: comments.php:85
+#: legacy.comments.php:174
+#@ colabsthemes
+msgid "Log out of this account"
+msgstr "Salir de esta cuenta"
+
+#: comments.php:85
+#: legacy.comments.php:174
+#@ colabsthemes
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: comments.php:89
+#: legacy.comments.php:178
+#@ colabsthemes
+msgid "Add your comment below, or"
+msgstr "Añade tu comentario abajo, o"
+
+#: comments.php:89
+#: legacy.comments.php:178
+#@ colabsthemes
+msgid "trackback"
+msgstr ""
+
+#: comments.php:89
+#: legacy.comments.php:178
+#@ colabsthemes
+msgid "from your own site"
+msgstr "desde tu propio sitio"
+
+#: comments.php:89
+#: legacy.comments.php:178
+#@ colabsthemes
+msgid "You can also"
+msgstr "también se puede"
+
+#: comments.php:89
+#: legacy.comments.php:178
+#@ colabsthemes
+msgid "subscribe to these comments"
+msgstr "suscribirse a estos comentarios"
+
+#: comments.php:89
+#: legacy.comments.php:178
+#@ colabsthemes
+msgid "via RSS."
+msgstr "a través de RSS."
+
+#: comments.php:91
+#: legacy.comments.php:180
+#@ colabsthemes
+msgid "Be nice. Keep it clean. Stay on topic. No spam."
+msgstr "Hay que ser agradable. Mantenga limpio. Manténgase sobre el tema. No spam."
+
+#: comments.php:94
+#: comments.php:97
+#: legacy.comments.php:183
+#: legacy.comments.php:186
+#@ colabsthemes
+msgid "(required)"
+msgstr "(necesario)"
+
+#: comments.php:97
+#: legacy.comments.php:186
+#@ colabsthemes
+msgid "Mail"
+msgstr "Correo"
+
+#: comments.php:97
+#: legacy.comments.php:186
+#@ colabsthemes
+msgid "(will not be published)"
+msgstr "(no será publicado)"
+
+#: comments.php:100
+#: legacy.comments.php:189
+#@ colabsthemes
+msgid "(optional)"
+msgstr "(opcional)"
+
+#: comments.php:109
+#: legacy.comments.php:194
+#@ colabsthemes
+msgid "You can use these tags:"
+msgstr "Puedes usar estas etiquetas:"
+
+#: comments.php:110
+#: legacy.comments.php:195
+#@ colabsthemes
+msgid "This is a Gravatar-enabled weblog. To get your own globally-recognized-avatar, please register at"
+msgstr "Este es un weblog Gravatar-habilitado. Para obtener su propio mundo-reconoce-avatar, por favor regístrese en"
+
+#: footer.php:16
+#@ colabsthemes
+msgid "Random Posts"
+msgstr "Puestos al azar"
+
+#: footer.php:51
+#@ colabsthemes
+msgid "(refresh random posts)"
+msgstr "(puestos de refresco al azar)"
+
+#: footer.php:64
+#@ colabsthemes
+msgid "Latest Video Post"
+msgstr "Último mensaje de vídeo"
+
+#: footer.php:101
+#@ colabsthemes
+msgid "Recent Posts"
+msgstr "Mensajes recientes"
+
+#: footer.php:113
+#@ colabsthemes
+msgid "Most Commented"
+msgstr "Los más comentados"
+
+#: footer.php:132
+#@ colabsthemes
+msgid "Most Popular"
+msgstr "más popular"
+
+#: footer.php:151
+#@ colabsthemes
+msgid "Entries (RSS)"
+msgstr "Entradas (RSS)"
+
+#: footer.php:151
+#@ colabsthemes
+msgid "Comments (RSS)"
+msgstr "Comentarios (RSS)"
+
+#: footer.php:159
+#@ colabsthemes
+msgid "by"
+msgstr "por"
+
+#: functions/admin-functions.php:2665
+#@ colabsthemes
+msgid "W"
+msgstr ""
+
+#: functions/images/colorpicker/comments.php:4
+#@ colabsthemes
+msgid "Comments To This Entry"
+msgstr "Comentarios a esta entrada"
+
+#: functions/images/colorpicker/comments.php:44
+#: legacy.comments.php:112
+#@ default
+#@ colabsthemes
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: header.php:131
+#: includes/headline.php:40
+#: index.php:44
+#@ colabsthemes
+msgid "Read the full story &raquo;"
+msgstr "Lea la historia completa &raquo;"
+
+#: includes/theme-functions.php:277
+#@ colabsthemes
+msgid "Primary Navigation"
+msgstr "La navegación principal"
+
+#: includes/theme-options.php:74
+#@ colabsthemes
+msgid "Select main content and sidebar alignment. Choose between left or right sidebar layout."
+msgstr "Seleccionar la página principal y la alineación de la barra lateral. Elija entre barra lateral izquierda o la derecha."
+
+#: includes/theme-options.php:753
+#@ colabsthemes
+msgid " Image/Video Settings"
+msgstr "Imagen / Ajustes de vídeo"
+
+#: includes/theme-sidebar-init.php:12
+#@ colabsthemes
+msgid "This widget will appear in top sidebar area"
+msgstr "Este widget aparecerá en el área de barra lateral de arriba"
+
+#: includes/theme-sidebar-init.php:20
+#@ colabsthemes
+msgid "This widget will appear in left sidebar area"
+msgstr "Este widget aparecerá en el área de barra lateral izquierda"
+
+#: includes/theme-sidebar-init.php:28
+#@ colabsthemes
+msgid "This widget will appear in right sidebar area"
+msgstr "Este widget aparecerá en el área de barra de la derecha"
+
+#: includes/theme-sidebar-init.php:36
+#@ colabsthemes
+msgid "This widget will appear in bottom sidebar area"
+msgstr "Este widget aparecerá en el área de barra lateral inferior"
+
+#: includes/theme-sidebar-init.php:44
+#@ colabsthemes
+msgid "This widget will appear in left footer area"
+msgstr "Este widget aparecerá en el área de pie de izquierda"
+
+#: includes/theme-sidebar-init.php:52
+#@ colabsthemes
+msgid "This widget will appear in center footer area"
+msgstr "Este widget aparecerá en el área de pie de centro"
+
+#: includes/theme-sidebar-init.php:60
+#@ colabsthemes
+msgid "This widget will appear in right footer area"
+msgstr "Este widget aparecerá en el área de pie de derecha"
+
+#: includes/widgets/widget-colabs-ads.php:9
+#@ arthemia
+msgid "ColorLabs - Ad 300"
+msgstr "ColorLabs - 300 dC"
+
+#: includes/widgets/widget-colabs-author.php:9
+#@ colabsthemes
+msgid "ColorLabs - Short Info"
+msgstr "ColorLabs - Información de corta distancia"
+
+#: includes/widgets/widget-colabs-author.php:14
+#@ default
+msgid "The Author"
+msgstr "El autor"
+
+#: includes/widgets/widget-colabs-author.php:64
+#@ colabsthemes
+msgid "Name :"
+msgstr "Nombre:"
+
+#: includes/widgets/widget-colabs-author.php:68
+#@ colabsthemes
+msgid "Email (gravatar):"
+msgstr "El correo electrónico (gravatar):"
+
+#: includes/widgets/widget-colabs-author.php:84
+#@ colabsthemes
+msgid "Description :"
+msgstr "Descripción:"
+
+#: includes/widgets/widget-colabs-categoryspoiler.php:9
+#@ arthemia
+msgid "ColorLabs - Categories Spoiler"
+msgstr ""
+
+#: includes/widgets/widget-colabs-categoryspoiler.php:69
+#@ arthemia
+msgid "More articles &raquo;"
+msgstr "Los artículos más &raquo;"
+
+#: includes/widgets/widget-colabs-categoryspoiler.php:96
+#@ colabsthemes
+msgid "Number of posts :"
+msgstr "Número de mensajes:"
+
+#: includes/widgets/widget-colabs-categoryspoiler.php:105
+#@ colabsthemes
+msgid "Sorting :"
+msgstr "Clasificación :"
+
+#: includes/widgets/widget-colabs-embed.php:11
+#@ colabsthemes
+msgid "ColorLabs - Video"
+msgstr ""
+
+#: includes/widgets/widget-colabs-embed.php:57
+#@ colabsthemes
+msgid "View Post"
+msgstr "Ver Mensaje"
+
+#: includes/widgets/widget-colabs-flickr.php:15
+#@ default
+msgid "Photos on flickr"
+msgstr "Fotos en Flickr"
+
+#: includes/widgets/widget-colabs-twitter.php:9
+#@ colabsthemes
+msgid "ColorLabs - Twitter"
+msgstr ""
+
+#: legacy.comments.php:126
+#@ colabsthemes
+msgid "said:"
+msgstr ", dijo:"
+
+#: legacy.comments.php:140
+#@ colabsthemes
+msgid "at"
+msgstr "en"
+
+#: page-contact.php:120
+#@ colabthemes
+msgid "This is the easiest way to contact us, fill the form below"
+msgstr "Esta es la forma más fácil de comunicarse con nosotros, llene el formulario de abajo"
+
+#: page-contact.php:178
+#: page-fullwidth.php:22
+#: page-leftsidebar.php:21
+#: page.php:17
+#: single.php:48
+#@ colabsthemes
+msgid "<p><strong>Pages:</strong>"
+msgstr "<p><strong>Páginas</strong>"
+
+#: page-fullwidth.php:20
+#: page-leftsidebar.php:19
+#: page.php:15
+#@ colabsthemes
+msgid "<p>Read the rest of this page &raquo;</p>"
+msgstr "<p> Leer el resto de esta página» </p> "
+
+#: search.php:5
+#@ colabsthemes
+msgid "Search"
+msgstr "Buscar"
+
+#: search.php:9
+#@ colabsthemes
+msgid "You have just searched for"
+msgstr "Usted acaba de búsquedas para"
+
+#: search.php:9
+#@ colabsthemes
+msgid "Here are the results:"
+msgstr "Aquí están los resultados:"
+
+#: sidebar.php:26
+#@ colabsthemes
+msgid "Blogroll"
+msgstr ""
+
+#: sidebar.php:28
+#@ colabsthemes
+msgid "Community Forum"
+msgstr "Foro de la Comunidad"
+
+#: sidebar.php:29
+#@ colabsthemes
+msgid "Documentation"
+msgstr "Documentación"
+
+#: sidebar.php:31
+#@ colabsthemes
+msgid "Member Area"
+msgstr "Zona Miembros"
+
+#: sidebar.php:32
+#@ colabsthemes
+msgid "Resolution Center"
+msgstr "Centro de Resolución"
+
+#: sidebar.php:33
+#@ colabsthemes
+msgid "Tutorials"
+msgstr "Tutoriales"
+
+#: sidebar.php:45
+#@ colabsthemes
+msgid "Tag Cloud"
+msgstr ""
+
+#: single.php:15
+#@ colabsthemes
+msgid "Submitted by"
+msgstr "Enviado por"
+
+#: single.php:15
+#@ colabsthemes
+msgid "on"
+msgstr "en"
+
+#: single.php:42
+#@ colabsthemes
+msgid "Read the rest of this entry &raquo;"
+msgstr "Leer el resto de esta entrada &raquo;"
+
+#: functions/admin-functions.php:2355
+#@ colabsthemes
+msgid "Next &raquo;"
+msgstr ""
+

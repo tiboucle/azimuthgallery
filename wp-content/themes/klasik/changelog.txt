@@ -1,0 +1,303 @@
+*** Klasik Framework Changelog ***
+
+2014.09.22 - Version 0.6.9.3
+   * includes/theme-sidebar.php - added new div to post sidebar positions 
+   * slider.php - improved the homepage slider feature
+   * site-header.php - removed enqueue comment-reply script
+   * includes/theme-functions.php - added enqueue comment-reply script
+
+2014.09.15 - Version 0.6.9.2
+   * includes/widgets/klasik-latestnews-widget.php - added meta comments and bug fixed author link
+   * includes/widgets/klasik-events-widget.php - bug fixed author link
+   * includes/widgets/klasik-advancedpost-widget.php - bug fixed author link
+
+2014.09.09 - Version 0.6.9.1
+   * includes/theme-functions.php - added function to make all future posts visible in single post
+   * includes/widgets/klasik-events-widget.php - bug fixed deleted/trash post show in events widget
+   * includes/widgets/klasik-pfilter-widget.php - added option to choose default or filterable portfolio
+   * includes/widgets/klasik-latestnews-widget.php - change position paging code
+   * style.css - setting css code for paging
+   * css/general.css - setting css code for paging
+
+2014.08.26 - Version 0.6.9
+   * includes/theme-metaboxes.php - added page title and page description.
+   * includes/theme-widgets.php - added latest news widget
+   * includes/widgets/klasik-latestnews-widget.php - added latest news widget
+   * includes/theme-widgets.php - added events Widget
+   * includes/widgets/klasik-events-widget.php - added events widget
+   * includes/theme-init.php - added image size for latest news widget
+   * includes/theme-functions.php - added numbered pagination for latest news widget
+   * includes/widgets/klasik-testimonial-widget.php - changed testimonials layout
+   * includes/header-function.php - added feature insert image for the page title
+   * includes/footer-function.php - changed size image and max items carousel
+   * includes/theme-sidebar.php - added new sidebar positions (homefeatures, homeshowcase and homeshowcase)
+   * includes/widgets/klasik-features-widget.php - changed columns option to dropdown
+   * includes/widgets/klasik-advancedpost-widget.php - changed columns option to dropdown
+   * includes/widgets/klasik-recentposts-widget.php - changed columns option to dropdown
+   * includes/widgets/klasik-pfilter-widget.php - changed columns option to dropdown
+   * includes/widgets/klasik-testimonial-widget.php - changed columns option to dropdown
+   * includes/widgets/klasik-latestnews-widget.php - changed columns option to dropdown
+   * includes/widgets/klasik-team-widget.php - changed columns option to dropdown
+   * slider.php - improved the homepage slider feature
+   * site-header.php - added site-header.php
+   * site-footer.php - added site-footer.php
+   * layout-header.php - added layout-header.php
+   * layout-footer.php - added layout-footer.php
+   * style.css - added css for latest news widget
+   * color.css - added css for latest news widget
+   * css/general.css - added css for latest news widget
+   * css/layout.css - fixed responsive style
+   * color.css - changed dropdown menu style
+   * style.css - changed dropdown menu style
+   * color.css - changed testimonials widget style
+   * style.css - changed testimonials widget style
+   * css/general.css - changed testimonials widget style
+   * page-templates/template-blog.php - removed blog page template
+
+2014.07.18 - Version 0.6.8.3
+   * css/general.css - changed blog post format style
+   * color.css - changed blog post format style
+   * style.css - changed blog post format style
+   * content.php - changed blog post format style
+   * content-image.php - changed blog post format style
+   * content-audio.php - changed blog post format style
+   * content-gallery.php - changed blog post format style
+   * content-video.php - changed blog post format style
+   * single.php - changed blog post format style
+
+2014.07.08 - Version 0.6.8.2
+   * includes/header-function.php - added pagedesc feature to page title function
+   * includes/widgets/klasik-advancedpost-widget.php - added day and month tpl features
+   * includes/theme-styles.php - added google font url ssl support
+   * includes/theme-function.php - added klasik_widget_count() function
+
+2014.07.01 - Version 0.6.8.1
+   * single.php - changed gallery, image, video and audio post format to show the_content
+   * content-audio.php - added featured image thumbnail
+   * includes/widgets/klasik-pfilter-widget.php - added lightbox url to detail for video and audio post format
+
+2014.06.26 - Version 0.6.8
+   * includes/widgets/klasik-pfilter-widget.php - added custom lightbox url for show videos
+   * color.css - changed blog post format style
+   * style.css - changed blog post format style
+   * content.php - changed blog post format style
+   * content-image.php - changed blog post format style
+   * content-quote.php - changed blog post format style
+   * content-audio.php - changed blog post format style
+   * content-gallery.php - changed blog post format style
+   * content-video.php - changed blog post format style
+   * single.php - changed blog post format style
+   * includes/theme-init.php - added image size for image post format and gallery post format
+   * theme-sidebar.php - added footer sidebar
+   * admin/options.php - added footer sidebar
+   * css/general.css - added footer sidebar css
+   * footer.php - added footer sidebar
+   * footer.php - removed footer1, footer2, footer3, footer4 sidebar
+   * includes/child-function.php - removed footer1, footer2, footer3, footer4 sidebar
+   * includes/theme-function.php - changed comments layout
+
+2014.05.13 - Version 0.6.7.4
+   * includes/theme-widgets.php - removed klasik popular tabs widget
+   * includes/widgets/klasik-populartabs-widget.php - removed
+
+2014.05.13 - Version 0.6.7.3
+   * color.css - fixed widget title css inside page builder
+   * includes/widget/klasik-recentpost-widget.php - added order by options
+
+2014.05.06 - Version 0.6.7.2
+   * includes/theme-functions.php - modification comments
+   * comments.php - modification comments
+   * js/tinynav.min.js - update jquery tinynav version 1.2 
+   * css/general.css - added comments style
+   * color.css - fixed dropdown menu
+   * style.css - fixed dropdown menu
+   * color.css - fixed advanced posts line
+   * css/general.css - fixed advanced posts margin
+
+2014.04.08 - Version 0.6.7.1
+   * js/ - remove some unused js files
+
+2014.04.08 - Version 0.6.7
+   * includes/theme-widgets.php - added our team widget, CallToAction widget and Page in Widget
+   * includes/widgets/klasik-team-widget.php - added our team widget
+   * css/general.css - added our team widget style and CallToAction widget style
+   * color.css - fixed portfolio widget style and CallToAction widget style
+   * includes/theme-styles.php - added font awesome support
+   * css/font-awesome.min.css - added font awesome support
+   * fonts/* - added font awesome support
+   * includes/widget/klasik-populartabs-widget.php - fixed query of comments and latest
+   * includes/widget/klasik-recentpost-widget.php - fixed query
+   * includes/widgets/klasik-features-widget.php - added link title checkbox
+   * includes/widgets/klasik-testimonial-widget.php - added tags
+   * includes/widgets/klasik-pfilter-widget.php - added tags
+   * includes/widgets/klasik-action-widget.php - added Call To Action widget
+   * style.css - added CallToAction widget style
+   * includes/widgets/klasik-page-widget.php - added Page in Widget widget
+
+2014.03.25 - Version 0.6.6
+   * page-templates/template-blog.php - added blog template
+   * includes/widgets/klasik-advancedpost-widget.php - added option to choose multiple categories
+   * screenshot.png - updated size
+
+2013.12.05 - Version 0.6.5
+   * includes/widgets/klasik-advancedpost-widget.php - added the advancedpost widget
+   * includes/theme-widgets.php - register the advanced post widget
+   * css/general.css - add the advanced post widget style
+   * languages/en_EN.po - update the language po/mo
+   * includes/footer-functions.php - fix the popular tabs bugs
+   * slider.php - change the custom field variable for slider
+
+2013.11.21 - Version 0.6.4.2
+   * css/general.css - bugfixed tab widget style
+   * includes/widgets/klasik-imagecarousel-widget.php - added full image template
+
+2013.11.14 - Version 0.6.4.1
+   * includes/widgets/klasik-populartabs-widget.php - changed the filename and function name
+   * includes/theme-widgets.php - changed the popular tabs widget function name
+
+2013.11.13 - Version 0.6.4
+   * includes/widgets/klasik-product-widget.php - added latest product widget
+   * includes/widgets/klasik-posttabs-widget.php - added popular tabs widget
+   * css/general.css - added tabs widget style
+   * includes/theme-widgets.php - added register tabs widget
+   * includes/footer-functions.php - added tabs widget script
+   * includes/widgets/klasik-recentposts-widget.php - added disable date in recentpost widget
+
+2013.10.29 - Version 0.6.3
+   * admin/options.php - added filter in the theme options array
+   * includes/footer-functions.php - moved the general.js code to wp_footer
+   * includes/theme-scripts.php - removed the general.js
+   * js/quicksand.js - added quicksand
+   * includes/widgets/klasik-pfilter-widget.php - added quicksand parameter
+
+2013.10.25 - Version 0.6.2
+   * includes/theme-functions.php - bugfixed for po/mo translation
+   * content.php - bugfixed the entry date
+   * content-audio.php - bugfixed the entry
+   * content-gallery.php - bugfixed the entry date
+   * content-image.php - bugfixed the entry date
+   * content-video.php - bugfixed the entry date
+   * includes/widgets/klasik-recentposts-widget.php - bugfixed the entry date and added the read more text
+   * includes/widgets/klasik-imagecarousel-widget.php - added image carousel widget
+   * js/general.js - added carousel script
+   * css/general.css - added carousel style
+
+2013.10.22 - Version 0.6.1
+   * includes/widgets/klasik-features-widget.php - template implemented for feature item
+   * includes/widgets/klasik-pfilter-widget.php - template implemented for portfolio item
+   * includes/widgets/klasik-features-widget.php - change the longdesc label textbox
+   * includes/widgets/klasik-recentposts-widget.php - change the longdesc label textbox
+   * includes/widgets/klasik-pfilter-widget.php - change the longdesc label textbox
+   * includes/widgets/klasik-testimonial-widget.php - change the testimonial template
+   * style.css - change the testimonial style
+   * admin/options.php - added the custom css fields in theme options
+   * admin/js/options-custom.js - added the script to show the css file content
+   * css/general.css - bug fixed the woocommerce css in single product
+   * js/custom.js - removed isotope portfolio filter code
+   * includes/theme-scripts.php - added mixitup portfolio filter
+   * js/general.js - added prettyphoto and isotope code
+
+2013.10.11 - Version 0.6.0
+   * includes/widgets/klasik-features-widget.php - added an image size for feature and removed the link in title
+   * includes/theme-sidebar.php - added a clear both for each sidebar
+   * footer.php - fixed layout in homepage
+   * header.php - fixed layout in homepage
+   * js/retina.1.1.0.js - added retina display ready
+   * includes/theme-scripts.php - added retina display ready
+   * includes/theme-scripts.php - added script for camera slider
+   * js/camera.js - added script for camera slider
+   * slider.php - change the slider with camera slider
+   * style.css - change css with camera slider css
+   * color.css - change css with camera slider css
+   * css/camera.css - added css for camera slider
+   * includes/theme-styles.php - added css for camera slider
+   * js/custom.js - added script for camera slider
+   * includes/theme-init.php - added the image-slider image size
+   * style.css - change blockquote css
+   * color.css - change blockquote css
+   * style.css - fixed text-base logo css
+   * style.css - added css for testimonial widget
+   * color.css - added css for testimonials
+   * includes/widgets/klasik-testimonial-widget.php - added testimonial widget
+   * includes/theme-widgets.php - added testimonial widget
+   * content-quote.php - fixed quote post format layout
+   * css/general.css - change the default p css
+
+2013.10.02 - Version 0.5.9
+   * woocommerce/* - make the theme compatible with woocommerce
+   * css/general.css - change the product title's font size in product grid
+   * includes/theme-init.php - added a remove_action for the single title
+   * includes/header-function.php - added a title condition for woocommerce
+   * header.php - moved the maintop and contenttop sidebar position
+   * footer.php - moved the mainbottom and contentbottom sidebar position
+   * rtl.css - added rtl language support
+   * admin/options.php - added an option for enabling rtl 
+   * includes/theme-styles.php - added enqueue for rtl.css
+
+2013.09.12 - Version 0.5.8
+   * includes/theme-styles.php - move the color.css from css/ folder to the main folder
+
+2013.09.09 - Version 0.5.7
+   * content-audio.php - make it compatible with wordpress 3.6
+   * content-video.php - make it compatible with wordpress 3.6
+   * single.php - make it compatible with wordpress 3.6
+   * includes/widgets/* - added the custom class in the widget, and fix the excerpt text
+   * includes/widgets/klasik-features-widget.php - added a unique class for each feature post
+
+2013.08.19 - Version 0.5.6
+   * theme-metaboxes.php - disable entry meta now is a disable blog info
+   * single.php - author now is a part of disable blog info
+   * includes/theme-sidebars.php - added main top and main bottom sidebar
+   * header.php - added main top sidebar
+   * footer.php - added main bottom sidebar
+   * style.css - added the main top and main bottom sidebar css
+   * general.css - setting the margin for klasik widget
+
+2013.07.25 - Version 0.5.5
+   * slider.php - added slider link to post
+
+2013.07.23 - Version 0.5.4
+   * includes/theme-function.php - removed unused localization code
+   * includes/footer-function.php - removed the footer query result
+   * footer.php - added copyright text
+   * includes/header-function.php - removed the default favicon
+   * single.php - fixed the tags bugs
+
+2013.07.18 - Version 0.5.3
+   * includes/theme-function.php - added filter for empty title
+   * single.php - added tag below the content
+
+2013.07.09 - version 0.5.2
+   * includes/theme-functions.php - added post id parameter in klasik_get_customdata()
+   * includes/theme-metaboxes.php - added disable entry meta checkbox.
+   * single.php - added disable entry meta snippets
+   * includes/theme-sidebar.php - added new sidebar positions (contenttop, contentbottom)
+   * includes/theme-widgets.php - added new widgets
+   * includes/widgets/*.php - added new widget files
+   * includes/widgets/klasik-pfilter-widget.php - fixed the number of posts bugs
+   * includes/widgets/klasik-recentposts-widget.php - added the longdesc
+   * includes/widgets/klasik-features-widget.php - added the longdesc and moretext
+   * includes/theme-functions.php - added klasik_filter_title() function
+   * single.php - added a tag function
+
+2013.06.28 - version 0.5.1
+   * admin/options.php - fixed the array bugs
+
+2013.06.26 - Version 0.5
+   * theme-init.php - removed portfolio, slider, and feature post type
+   * shortcodes/* - has been deprecated
+   * widgets/* - has been deprecated
+   * register-widget.php - has been removed
+   * content-*.php - small layout changes
+
+2013.06.11 - Version 0.1.2
+   * style.css - separate the background image from style.css to color.css
+   * css/color.css - separate the background image from style.css to color.css
+   * includes/theme-metaboxes.php - added a layout option for portfolio post
+
+2013.05.24 - Version 0.1.1
+   * includes/shortcodes/portfolio.php - changed heading in shortcode to <h3>
+   * includes/sidebar-init.php - changed heading in sidebar to <h3>
+
+2013.05.20 - Version 0.1
+  * First Release!

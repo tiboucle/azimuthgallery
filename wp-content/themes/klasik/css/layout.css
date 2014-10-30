@@ -1,0 +1,100 @@
+
+/* #Media Queries
+================================================== */
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (min-width: 959px) {
+	
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+}
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+	#bodychild{width:100%; margin:0}
+	#outerheader{height:auto;}
+	
+	/*============================================== HEADER SECTION ==============================================*/
+	#logo{text-align:center; float:none; display:block; margin-bottom:20px;}
+	#logoimg img{margin:0px auto;}
+	
+	.container{ margin: 0px auto; max-width: 450px; }
+
+	#navigation{text-align:center; clear:both; margin:0px!important;}
+	.sf-menu a{background:transparent !important; border:0 !important}
+	.sf-menu > li{border:0 !important; display:none;}
+	nav{margin:0px; float:none; }
+	.js .tinynav { display: block; display: inline-block; text-align:left ; margin:0 0 0 0; width:50%}/* mobile dropdown */
+    .js #topnav { display: none }
+	
+	/*============================================== SLIDER SECTION ==============================================*/
+	#slider .slider-title span{ font-size:14px;}
+	#slider .slider-desc span{display:none; }
+	#slider .camera_caption { left:10px; bottom:10px;}
+	#slider iframe.video-static{ height:300px;}
+
+	/*============================================== AFTER HEADER SECTION ==============================================*/
+	#outerafterheader{padding:0 0 0 0;}
+	#afterheader .pagetitle{ text-align:center; float:none; margin:0px;}
+	#afterheader .pagedesc{display:block; text-align:center;}
+
+	
+	/*============================================== CONTENT SECTION ==============================================*/
+	
+	#content.positionright, #content.positionleft{background:transparent;}
+	.padcontent{padding-right:0;}
+	#content.positionright .padcontent{padding-left:0; padding-right:0}
+	#content.positionleft .main{ padding:0px; margin-bottom:30px;}
+	
+	.tabcontainer{margin-bottom:20px;}
+	ul.tabs{height:auto;}
+	ul.tabs li{font-size:12px; display:block; float:none; overflow:visible; height:auto}
+	ul.tabs li a{text-transform:capitalize;}
+	h2.trigger{font-size:12px;}
+	
+	.klasik-latestnews-widget .recent-text-wrap{ overflow:inherit}
+	.klasik-latestnews-widget .recent-thumb img{float:none; width: auto; height: auto; margin-bottom:10px;}
+	.home .panel-grid-cell .panel.widget_klasik-latestnews-widget .klasik-latestnews-widget  {
+		margin-right:0px;
+	}
+
+	.panel-grid-cell .panel.widget_klasik-events-widget:last-child {
+		margin-bottom: 30px!important;
+		width: 100%;
+		float: none;
+	}
+		
+	/*============================================== BLOG SECTION ==============================================*/
+
+	.wp-pagenavi{margin-bottom:30px;}
+
+	
+	#sidebar.positionright div.widget-area{padding-left:0px;}
+	#sidebar.positionleft div.widget-area{padding-right:0px;}
+	
+}
+
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	#bodychild{width:100%;}
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	#bodychild{width:100%;}
+	
+	
+	/*============================================== SLIDER SECTION ==============================================*/
+	.camera_caption{ display:none }
+
+	
+	
+	/*============================================== BLOG SECTION ==============================================*/
+	.commentlist ol{padding-left:20px;}
+	.comment-body{margin:0;}
+}

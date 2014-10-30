@@ -1,0 +1,809 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Klasik Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-22 11:07+0700\n"
+"PO-Revision-Date: 2013-11-22 11:08+0700\n"
+"Last-Translator: iyut <luthfi@klikmart.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: 404.php:12
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: attachment.php:44
+msgid "Read More"
+msgstr ""
+
+#: attachment.php:45
+#: content-page.php:19
+msgid "Pages:"
+msgstr ""
+
+#: attachment.php:59
+#: content-page.php:22
+#: content-status.php:30
+msgid "Edit"
+msgstr ""
+
+#: author.php:30
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:41
+#: comments.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:42
+#: comments.php:60
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:79
+msgid "Name"
+msgstr ""
+
+#: comments.php:82
+msgid "Email"
+msgstr ""
+
+#: comments.php:85
+msgid "Website"
+msgstr ""
+
+#: comments.php:88
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:89
+msgid "Submit"
+msgstr ""
+
+#: content-audio.php:36
+#: content-gallery.php:40
+#: content-image.php:59
+#: content-video.php:47
+#: content.php:20
+msgid "by"
+msgstr ""
+
+#: content-audio.php:37
+#: content-gallery.php:41
+#: content-image.php:60
+#: content-video.php:48
+#: content.php:21
+msgid "in"
+msgstr ""
+
+#: content-audio.php:44
+#: content-gallery.php:48
+#: content-image.php:67
+#: content-video.php:55
+#: content.php:27
+msgid "Continue Reading"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:18
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-status.php:21
+msgid "Continue reading"
+msgstr ""
+
+#: content-status.php:27
+msgid "Leave a reply"
+msgstr ""
+
+#: content-status.php:27
+msgid "1 Reply"
+msgstr ""
+
+#: content-status.php:27
+msgid "% Replies"
+msgstr ""
+
+#: footer.php:90
+msgid "About Us"
+msgstr ""
+
+#: footer.php:104
+msgid "Recent Comments"
+msgstr ""
+
+#: footer.php:118
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:132
+msgid "Meta"
+msgstr ""
+
+#: footer.php:158
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:159
+msgid " Designed by"
+msgstr ""
+
+#: footer.php:159
+msgid "http://www.klasikthemes.com"
+msgstr ""
+
+#: footer.php:159
+msgid "Klasik Themes"
+msgstr ""
+
+#: loop.php:25
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:27
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: loop.php:51
+#: single.php:193
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: loop.php:52
+#: single.php:194
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: searchform.php:12
+msgid "Enter the keyword..."
+msgstr ""
+
+#: single.php:186
+msgid "Tags :"
+msgstr ""
+
+#: admin/options-framework.php:168
+#: admin/options-framework.php:169
+#: admin/options-framework.php:372
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-framework.php:243
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:275
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:316
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/options-sanitize.php:220
+msgid "No Repeat"
+msgstr ""
+
+#: admin/options-sanitize.php:221
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/options-sanitize.php:222
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/options-sanitize.php:223
+msgid "Repeat All"
+msgstr ""
+
+#: admin/options-sanitize.php:236
+msgid "Top Left"
+msgstr ""
+
+#: admin/options-sanitize.php:237
+msgid "Top Center"
+msgstr ""
+
+#: admin/options-sanitize.php:238
+msgid "Top Right"
+msgstr ""
+
+#: admin/options-sanitize.php:239
+msgid "Middle Left"
+msgstr ""
+
+#: admin/options-sanitize.php:240
+msgid "Middle Center"
+msgstr ""
+
+#: admin/options-sanitize.php:241
+msgid "Middle Right"
+msgstr ""
+
+#: admin/options-sanitize.php:242
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/options-sanitize.php:243
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/options-sanitize.php:244
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/options-sanitize.php:257
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/options-sanitize.php:258
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/options-sanitize.php:332
+msgid "Normal"
+msgstr ""
+
+#: admin/options-sanitize.php:333
+msgid "Italic"
+msgstr ""
+
+#: admin/options-sanitize.php:334
+msgid "Bold"
+msgstr ""
+
+#: admin/options-sanitize.php:335
+msgid "Bold Italic"
+msgstr ""
+
+#: admin/options.php:42
+msgid "Image logo"
+msgstr ""
+
+#: admin/options.php:43
+msgid "Text-based logo"
+msgstr ""
+
+#: admin/options.php:83
+msgid "Select The Category"
+msgstr ""
+
+#: admin/options.php:101
+msgid "General"
+msgstr ""
+
+#: admin/options.php:104
+msgid "Disable Responsive"
+msgstr ""
+
+#: admin/options.php:105
+msgid "Select this checkbox to disable responsive feature."
+msgstr ""
+
+#: admin/options.php:110
+msgid "Enable RTL Language Support"
+msgstr ""
+
+#: admin/options.php:111
+msgid "Select this checkbox to enable RTL Language Support."
+msgstr ""
+
+#: admin/options.php:116
+msgid "Layout Settings"
+msgstr ""
+
+#: admin/options.php:119
+msgid "Default Layout"
+msgstr ""
+
+#: admin/options.php:120
+msgid "Select the default layout for your theme."
+msgstr ""
+
+#: admin/options.php:130
+msgid " "
+msgstr ""
+
+#: admin/options.php:133
+msgid "Header Settings"
+msgstr ""
+
+#: admin/options.php:136
+msgid "Logo Type"
+msgstr ""
+
+#: admin/options.php:137
+msgid "If text-based logo is activated, enter the sitename and tagline in the fields below."
+msgstr ""
+
+#: admin/options.php:144
+msgid "Site name"
+msgstr ""
+
+#: admin/options.php:145
+msgid "Put your sitename in here."
+msgstr ""
+
+#: admin/options.php:150
+msgid "Tagline"
+msgstr ""
+
+#: admin/options.php:151
+msgid "Put your tagline in here."
+msgstr ""
+
+#: admin/options.php:156
+msgid "Logo Image"
+msgstr ""
+
+#: admin/options.php:157
+msgid "If image logo is activated, upload the logo image."
+msgstr ""
+
+#: admin/options.php:161
+msgid "Favicon"
+msgstr ""
+
+#: admin/options.php:162
+msgid "Upload the favicon image."
+msgstr ""
+
+#: admin/options.php:166
+msgid "Footer Settings"
+msgstr ""
+
+#: admin/options.php:169
+msgid "Footer Text"
+msgstr ""
+
+#: admin/options.php:170
+msgid "You can use html tag in here."
+msgstr ""
+
+#: admin/options.php:175
+msgid "Footer Script"
+msgstr ""
+
+#: admin/options.php:176
+msgid "Enter your footer script here."
+msgstr ""
+
+#: admin/options.php:181
+msgid "Custom Styling"
+msgstr ""
+
+#: admin/options.php:190
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options.php:191
+msgid "Enter your custom css here. <br/> <strong>You can see the original styles to override it :</strong>"
+msgstr ""
+
+#: includes/header-function.php:22
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/header-function.php:74
+#: includes/header-function.php:76
+#: includes/theme-function.php:211
+msgid "Click for Home"
+msgstr ""
+
+#: includes/header-function.php:118
+#, php-format
+msgid "Daily Archives <span>%s</span>"
+msgstr ""
+
+#: includes/header-function.php:120
+#, php-format
+msgid "Monthly Archives <span>%s</span>"
+msgstr ""
+
+#: includes/header-function.php:122
+#, php-format
+msgid "Yearly Archives <span>%s</span>"
+msgstr ""
+
+#: includes/header-function.php:124
+#, php-format
+msgid "Author Archives %s"
+msgstr ""
+
+#: includes/header-function.php:126
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/header-function.php:132
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: includes/header-function.php:137
+msgid "404 Page"
+msgstr ""
+
+#: includes/header-function.php:143
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/theme-function.php:44
+#: includes/widgets/klasik-advancedpost-widget.php:168
+#: includes/widgets/klasik-pfilter-widget.php:260
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/theme-function.php:143
+#: includes/widgets/klasik-populartabs-widget.php:117
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: includes/theme-function.php:147
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/theme-function.php:148
+msgid "/&nbsp;Edit"
+msgstr ""
+
+#: includes/theme-function.php:153
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-function.php:167
+msgid "Pingback:"
+msgstr ""
+
+#: includes/theme-function.php:167
+msgid "(Edit)"
+msgstr ""
+
+#: includes/theme-function.php:180
+#, php-format
+msgid "Categories: %1$s <br/> Tags: %2$s"
+msgstr ""
+
+#: includes/theme-function.php:182
+#, php-format
+msgid "Categories: %1$s"
+msgstr ""
+
+#: includes/theme-function.php:200
+msgid "Untitled"
+msgstr ""
+
+#: includes/theme-function.php:211
+msgid "Home"
+msgstr ""
+
+#: includes/theme-init.php:39
+msgid "Main Menu"
+msgstr ""
+
+#: includes/theme-metaboxes.php:27
+msgid "Post Options"
+msgstr ""
+
+#: includes/theme-metaboxes.php:34
+#: includes/theme-metaboxes.php:67
+msgid "Layout"
+msgstr ""
+
+#: includes/theme-metaboxes.php:35
+#: includes/theme-metaboxes.php:68
+msgid "Select the layout you want on this specific post/page. Overrides default site layout."
+msgstr ""
+
+#: includes/theme-metaboxes.php:42
+msgid "Feature on Homepage Slider"
+msgstr ""
+
+#: includes/theme-metaboxes.php:43
+msgid "Checked this checkbox if you want to show this post as Homepage Slider."
+msgstr ""
+
+#: includes/theme-metaboxes.php:49
+msgid "Disable Blog Info on Single"
+msgstr ""
+
+#: includes/theme-metaboxes.php:50
+msgid "Checked this checkbox if you want to disable the meta and author information on single page (date, author, categories, etc)."
+msgstr ""
+
+#: includes/theme-metaboxes.php:218
+#: includes/theme-metaboxes.php:242
+msgid "Select Category"
+msgstr ""
+
+#: includes/theme-sidebar.php:5
+msgid "Post Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar.php:7
+msgid "Located at the left/right side of archives, single and search."
+msgstr ""
+
+#: includes/theme-sidebar.php:19
+msgid "Footer1 Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar.php:21
+msgid "Located at the footer column 1."
+msgstr ""
+
+#: includes/theme-sidebar.php:33
+msgid "Footer2 Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar.php:35
+msgid "Located at the footer column 2."
+msgstr ""
+
+#: includes/theme-sidebar.php:47
+msgid "Footer3 Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar.php:49
+msgid "Located at the footer column 3."
+msgstr ""
+
+#: includes/theme-sidebar.php:61
+msgid "Footer4 Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar.php:63
+msgid "Located at the footer column 4."
+msgstr ""
+
+#: includes/theme-sidebar.php:75
+msgid "Footer5 Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar.php:77
+msgid "Located at the footer column 5."
+msgstr ""
+
+#: includes/theme-sidebar.php:89
+msgid "Footer6 Sidebar"
+msgstr ""
+
+#: includes/theme-sidebar.php:91
+msgid "Located at the footer column 6."
+msgstr ""
+
+#: includes/theme-sidebar.php:103
+msgid "Content Top"
+msgstr ""
+
+#: includes/theme-sidebar.php:105
+#: includes/theme-sidebar.php:129
+msgid "Located at the top of the content."
+msgstr ""
+
+#: includes/theme-sidebar.php:115
+msgid "Content Bottom"
+msgstr ""
+
+#: includes/theme-sidebar.php:117
+#: includes/theme-sidebar.php:141
+msgid "Located at the bottom of the content."
+msgstr ""
+
+#: includes/theme-sidebar.php:127
+msgid "Main Top"
+msgstr ""
+
+#: includes/theme-sidebar.php:139
+msgid "Main Bottom"
+msgstr ""
+
+#: includes/widgets/klasik-advancedpost-widget.php:7
+#: includes/widgets/klasik-advancedpost-widget.php:8
+msgid "KlasikThemes Advanced Posts"
+msgstr ""
+
+#: includes/widgets/klasik-advancedpost-widget.php:242
+#: includes/widgets/klasik-features-widget.php:184
+#: includes/widgets/klasik-imagecarousel-widget.php:134
+#: includes/widgets/klasik-pfilter-widget.php:304
+#: includes/widgets/klasik-product-widget.php:125
+#: includes/widgets/klasik-recentposts-widget.php:195
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/klasik-advancedpost-widget.php:244
+#: includes/widgets/klasik-features-widget.php:186
+#: includes/widgets/klasik-pfilter-widget.php:306
+#: includes/widgets/klasik-recentposts-widget.php:197
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/klasik-advancedpost-widget.php:255
+#: includes/widgets/klasik-features-widget.php:197
+#: includes/widgets/klasik-pfilter-widget.php:329
+#: includes/widgets/klasik-recentposts-widget.php:208
+msgid "Number of Columns:"
+msgstr ""
+
+#: includes/widgets/klasik-advancedpost-widget.php:257
+#: includes/widgets/klasik-features-widget.php:199
+#: includes/widgets/klasik-pfilter-widget.php:331
+#: includes/widgets/klasik-product-widget.php:127
+#: includes/widgets/klasik-recentposts-widget.php:210
+msgid "Number of Post:"
+msgstr ""
+
+#: includes/widgets/klasik-advancedpost-widget.php:259
+#: includes/widgets/klasik-features-widget.php:201
+#: includes/widgets/klasik-pfilter-widget.php:333
+#: includes/widgets/klasik-recentposts-widget.php:212
+msgid "Length of Description Text:"
+msgstr ""
+
+#: includes/widgets/klasik-advancedpost-widget.php:261
+#: includes/widgets/klasik-features-widget.php:203
+#: includes/widgets/klasik-imagecarousel-widget.php:138
+#: includes/widgets/klasik-pfilter-widget.php:335
+#: includes/widgets/klasik-product-widget.php:137
+#: includes/widgets/klasik-recentposts-widget.php:214
+msgid "Custom Class:"
+msgstr ""
+
+#: includes/widgets/klasik-features-widget.php:7
+#: includes/widgets/klasik-features-widget.php:8
+msgid "KlasikThemes Features"
+msgstr ""
+
+#: includes/widgets/klasik-imagecarousel-widget.php:8
+#: includes/widgets/klasik-imagecarousel-widget.php:9
+msgid "KlasikThemes Image Carousel"
+msgstr ""
+
+#: includes/widgets/klasik-imagecarousel-widget.php:136
+msgid "Media IDs:"
+msgstr ""
+
+#: includes/widgets/klasik-pfilter-widget.php:7
+#: includes/widgets/klasik-pfilter-widget.php:8
+msgid "KlasikThemes Portfolio Filter"
+msgstr ""
+
+#: includes/widgets/klasik-pfilter-widget.php:56
+msgid "All Categories"
+msgstr ""
+
+#: includes/widgets/klasik-populartabs-widget.php:8
+#: includes/widgets/klasik-populartabs-widget.php:9
+msgid "KlasikThemes Popular Tabs"
+msgstr ""
+
+#: includes/widgets/klasik-populartabs-widget.php:27
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/klasik-populartabs-widget.php:28
+msgid "Latest"
+msgstr ""
+
+#: includes/widgets/klasik-populartabs-widget.php:29
+msgid "Comments"
+msgstr ""
+
+#: includes/widgets/klasik-populartabs-widget.php:156
+msgid "Number of Popular:"
+msgstr ""
+
+#: includes/widgets/klasik-populartabs-widget.php:158
+msgid "Number of Latest:"
+msgstr ""
+
+#: includes/widgets/klasik-populartabs-widget.php:160
+msgid "Number of Comment:"
+msgstr ""
+
+#: includes/widgets/klasik-product-widget.php:7
+#: includes/widgets/klasik-product-widget.php:8
+msgid "KlasikThemes WooCommerce Products"
+msgstr ""
+
+#: includes/widgets/klasik-product-widget.php:129
+msgid "Widget Type:"
+msgstr ""
+
+#: includes/widgets/klasik-product-widget.php:131
+msgid "Latest Product"
+msgstr ""
+
+#: includes/widgets/klasik-product-widget.php:132
+msgid "Featured Product"
+msgstr ""
+
+#: includes/widgets/klasik-product-widget.php:133
+msgid "Best-Selling Product"
+msgstr ""
+
+#: includes/widgets/klasik-product-widget.php:140
+msgid "Show hidden product variations"
+msgstr ""
+
+#: includes/widgets/klasik-product-widget.php:143
+msgid "Hide free products"
+msgstr ""
+
+#: includes/widgets/klasik-recentposts-widget.php:7
+#: includes/widgets/klasik-recentposts-widget.php:8
+msgid "KlasikThemes Recent Posts"
+msgstr ""
+
+#: includes/widgets/klasik-recentposts-widget.php:216
+msgid "Disable Image:"
+msgstr ""
+
+#: includes/widgets/klasik-recentposts-widget.php:220
+msgid "Disable Date:"
+msgstr ""
+
+#: includes/widgets/klasik-recentposts-widget.php:224
+msgid "Disable Text:"
+msgstr ""
+
+#: includes/widgets/klasik-recentposts-widget.php:228
+msgid "Disable More Text:"
+msgstr ""
+
+#: includes/widgets/klasik-recentposts-widget.php:232
+msgid "Read More Text:"
+msgstr ""
+
+#: includes/widgets/klasik-testimonial-widget.php:7
+#: includes/widgets/klasik-testimonial-widget.php:8
+msgid "KlasikThemes Testimonial"
+msgstr ""
+

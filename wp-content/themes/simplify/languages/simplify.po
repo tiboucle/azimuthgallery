@@ -1,0 +1,618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: selfie\n"
+"POT-Creation-Date: 2014-09-24 02:14+0600\n"
+"PO-Revision-Date: 2014-09-24 02:14+0600\n"
+"Last-Translator: support@d5creation.com\n"
+"Language-Team: D5 Creation <support@d5creation.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php:12
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: ../404.php:15 ../archive.php:70 ../index.php:39 ../search.php:47
+msgid "&laquo; Or Return to the Home Page"
+msgstr ""
+
+#: ../404.php:17 ../archive.php:71 ../index.php:40 ../search.php:48
+msgid "You can also Visit the Following. These are the Featured Contents"
+msgstr ""
+
+#: ../archive.php:14
+msgid "now browsing by category"
+msgstr ""
+
+#: ../archive.php:20
+msgid "now browsing by tag"
+msgstr ""
+
+#: ../archive.php:25
+msgid "now browsing by day"
+msgstr ""
+
+#: ../archive.php:28
+msgid "now browsing by month"
+msgstr ""
+
+#: ../archive.php:31
+msgid "now browsing by year"
+msgstr ""
+
+#: ../archive.php:34
+msgid "now browsing by author"
+msgstr ""
+
+#: ../archive.php:37
+msgid "now browsing the general archives"
+msgstr ""
+
+#: ../archive.php:43 ../front-page-blog.php:14 ../index.php:13
+#: ../single.php:17
+msgid "Posted by:"
+msgstr ""
+
+#: ../archive.php:43 ../front-page-blog.php:14 ../index.php:13
+#: ../single.php:17
+msgid " on"
+msgstr ""
+
+#: ../archive.php:51 ../front-page-blog.php:22 ../index.php:21
+#: ../search.php:30 ../single.php:27
+msgid "Posted in"
+msgstr ""
+
+#: ../archive.php:51 ../front-page-blog.php:22 ../index.php:21
+#: ../search.php:30 ../single.php:27
+msgid "Edit"
+msgstr ""
+
+#: ../archive.php:51 ../front-page-blog.php:22 ../index.php:21
+#: ../search.php:30 ../single.php:27
+msgid "No Comments &#187;"
+msgstr ""
+
+#: ../archive.php:51 ../front-page-blog.php:22 ../index.php:21
+#: ../search.php:30 ../single.php:27
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: ../archive.php:51 ../front-page-blog.php:22 ../index.php:21
+#: ../search.php:30 ../single.php:27
+msgid "% Comments &#187;"
+msgstr ""
+
+#: ../archive.php:51 ../front-page-blog.php:22 ../index.php:21
+#: ../search.php:30 ../single.php:27
+msgid "Tags: "
+msgstr ""
+
+#: ../archive.php:60 ../front-page-blog.php:29 ../index.php:28
+#: ../search.php:37
+msgid "&laquo; Previous Entries"
+msgstr ""
+
+#: ../archive.php:61 ../front-page-blog.php:30 ../index.php:29
+#: ../search.php:38
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../archive.php:66 ../index.php:35 ../search.php:43
+msgid "Sorry, we could not find anything that matched..."
+msgstr ""
+
+#: ../archive.php:68 ../index.php:37 ../search.php:45
+msgid "You Can Try the Search..."
+msgstr ""
+
+#: ../comments.php:13
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:13
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:13
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Comments are Closed"
+msgstr ""
+
+#: ../featured-box.php:11 ../inc/options.php:79
+msgid "Recent Works"
+msgstr ""
+
+#: ../featured-box.php:11 ../inc/options.php:86
+msgid ""
+"The Color changing options of Simplify will give the WordPress Driven Site "
+"an attractive look."
+msgstr ""
+
+#: ../featured-box.php:17 ../inc/options.php:108
+msgid "Simplify Theme for Small Business"
+msgstr ""
+
+#: ../featured-box.php:19 ../inc/options.php:115
+msgid ""
+"The Color changing options of Simplify will give the WordPress Driven Site "
+"an attractive look. Simplify is super elegant and Professional Responsive "
+"Theme which will create the business widely expressed."
+msgstr ""
+
+#: ../featured-box.php:26 ../inc/options.php:136
+msgid "Our Services"
+msgstr ""
+
+#: ../featured-box.php:26 ../inc/options.php:143
+msgid ""
+"Simplify is super elegant and Professional Responsive Theme which will "
+"create the business widely expressed."
+msgstr ""
+
+#: ../featured-box.php:30 ../inc/options.php:164
+msgid "Simplify Theme for Business"
+msgstr ""
+
+#: ../featured-box.php:32 ../inc/options.php:171
+msgid ""
+"Simplify is super elegant and Professional Responsive Theme which will "
+"create the business widely expressed. The Color changing options of Simplify "
+"will give the WordPress Driven Site an attractive look."
+msgstr ""
+
+#: ../front-page-blog.php:9
+msgid "<<< Show Posts/ Page >>>"
+msgstr ""
+
+#: ../front-page.php:13 ../inc/options.php:30
+msgid "Welcome to the World of Creativity!"
+msgstr ""
+
+#: ../front-page.php:14 ../inc/options.php:37
+msgid ""
+"WordPress is web software you can use to create a beautiful website or blog. "
+"We like to say that WordPress is both free and priceless at the same time."
+msgstr ""
+
+#: ../front-page.php:35 ../front-page.php:38 ../inc/options.php:65
+msgid ""
+"All the developers of D5 Creation have come from the disadvantaged part or "
+"group of the society. All have established themselves after a long and hard "
+"struggle in their life ----- D5 Creation Team"
+msgstr ""
+
+#: ../fullwidth.php:22 ../page.php:25
+msgid "Edit This Entry"
+msgstr ""
+
+#: ../functions.php:30
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:99
+msgid "Read More..."
+msgstr ""
+
+#: ../functions.php:100
+msgid "Theme by: "
+msgstr ""
+
+#: ../functions.php:100
+msgid "Powered by: "
+msgstr ""
+
+#: ../functions.php:106
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:115
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../functions.php:124
+msgid "Footer Area One"
+msgstr ""
+
+#: ../functions.php:134
+msgid "Footer Area Two"
+msgstr ""
+
+#: ../functions.php:144
+msgid "Footer Area Three"
+msgstr ""
+
+#: ../functions.php:155
+msgid "Footer Area Four"
+msgstr ""
+
+#: ../inc/includes/class-options-framework-admin.php:90
+#: ../inc/includes/class-options-framework-admin.php:91 ../inc/options.php:19
+msgid "Simplify Options"
+msgstr ""
+
+#: ../inc/includes/class-options-framework-admin.php:198
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../inc/includes/class-options-framework-admin.php:229
+msgid "Default options restored."
+msgstr ""
+
+#: ../inc/includes/class-options-framework-admin.php:283
+msgid "Options saved."
+msgstr ""
+
+#: ../inc/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: ../inc/includes/class-options-media-uploader.php:66
+#: ../inc/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: ../inc/includes/class-options-media-uploader.php:68
+#: ../inc/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: ../inc/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../inc/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: ../inc/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+#: ../inc/options.php:23
+msgid ""
+"If you like this FREEE Theme You can consider for a small Donation to us. "
+"Your Donation will be spent for the Disadvantaged Children and Students. You "
+"can visit our"
+msgstr ""
+
+#: ../inc/options.php:23
+msgid "DONATION PAGE"
+msgstr ""
+
+#: ../inc/options.php:23
+msgid "and Take your decision."
+msgstr ""
+
+#: ../inc/options.php:23
+msgid "You can inspire us writing a "
+msgstr ""
+
+#: ../inc/options.php:23
+msgid "Positive Review"
+msgstr ""
+
+#: ../inc/options.php:23
+msgid "of our Theme."
+msgstr ""
+
+#: ../inc/options.php:23
+msgid ""
+"Need More Features and Options including Exciting 3D Slide and 100+ Advanced "
+"Features? Try"
+msgstr ""
+
+#: ../inc/options.php:23
+msgid "You can Visit the Simplify Extend Demo "
+msgstr ""
+
+#: ../inc/options.php:23
+msgid "Here"
+msgstr ""
+
+#: ../inc/options.php:27
+msgid "Front Page Heading"
+msgstr ""
+
+#: ../inc/options.php:28
+msgid "Input your heading text here.  Please limit it within 30 Letters."
+msgstr ""
+
+#: ../inc/options.php:34
+msgid "Front Page Heading Description"
+msgstr ""
+
+#: ../inc/options.php:35
+msgid ""
+"Input your heading description here. Please limit it within 100 Letters."
+msgstr ""
+
+#: ../inc/options.php:41
+msgid "Banner Image/ Slide Image 01"
+msgstr ""
+
+#: ../inc/options.php:42
+msgid ""
+"Upload an image for the Front Page Banner. 930px X 350px image is "
+"recommended."
+msgstr ""
+
+#: ../inc/options.php:48
+msgid "Slide Image 02"
+msgstr ""
+
+#: ../inc/options.php:49 ../inc/options.php:56
+msgid ""
+"Upload an image for the Front Page Banner. 930px X 350px image is "
+"recommended. Leave this field blank if you do not want any slider."
+msgstr ""
+
+#: ../inc/options.php:55
+msgid "Slide Image 03"
+msgstr ""
+
+#: ../inc/options.php:62
+msgid "Quote Text"
+msgstr ""
+
+#: ../inc/options.php:63
+msgid "Input your Quotation here. Plese limit it within 150 Letters."
+msgstr ""
+
+#: ../inc/options.php:72
+msgid "First Row Featured Boxs"
+msgstr ""
+
+#: ../inc/options.php:76 ../inc/options.php:133
+msgid "Row Subject"
+msgstr ""
+
+#: ../inc/options.php:77 ../inc/options.php:134
+msgid "Input your Row Title Here."
+msgstr ""
+
+#: ../inc/options.php:83 ../inc/options.php:140
+msgid "Row Description"
+msgstr ""
+
+#: ../inc/options.php:84 ../inc/options.php:113 ../inc/options.php:141
+#: ../inc/options.php:169
+msgid ""
+"Input the description of Featured Areas. Please limit the words within 30 so "
+"that the layout should be clean and attractive."
+msgstr ""
+
+#: ../inc/options.php:94 ../inc/options.php:150
+msgid "FEATURED BOX: "
+msgstr ""
+
+#: ../inc/options.php:98 ../inc/options.php:154
+msgid "Image"
+msgstr ""
+
+#: ../inc/options.php:99
+msgid ""
+"Upload an image for the Featured Box. 200px X 100px image is recommended.  "
+"If you do not want to show anything here leave the box blank."
+msgstr ""
+
+#: ../inc/options.php:105 ../inc/options.php:161
+msgid "Title"
+msgstr ""
+
+#: ../inc/options.php:106 ../inc/options.php:162
+msgid ""
+"Input your Featured Title here. Please limit it within 30 Letters. If you do "
+"not want to show anything here leave the box blank."
+msgstr ""
+
+#: ../inc/options.php:112 ../inc/options.php:168
+msgid "Description"
+msgstr ""
+
+#: ../inc/options.php:122
+msgid "Second Row Featured Boxs"
+msgstr ""
+
+#: ../inc/options.php:126
+msgid "Show Second Row Featured Boxs"
+msgstr ""
+
+#: ../inc/options.php:127
+msgid "Uncheck this if you do not want to show the Second Row Featured Boxs"
+msgstr ""
+
+#: ../inc/options.php:155
+msgid ""
+"Upload an image for the Featured Box. 50px X 50px image is recommended. If "
+"you do not want to show anything here leave the box blank."
+msgstr ""
+
+#: ../inc/options.php:177
+msgid "Do not show any Posts or Page in the Front Page "
+msgstr ""
+
+#: ../inc/options.php:178
+msgid ""
+"Check the Box if you do not want to show any Posts or Page in the Front Page"
+msgstr ""
+
+#: ../inc/options.php:184
+msgid "Use Responsive Layout"
+msgstr ""
+
+#: ../inc/options.php:185
+msgid "Check the Box if you want the Responsive Layout of your Website"
+msgstr ""
+
+#: ../inc/options.php:191
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/options.php:195
+msgid "You Tube Channel Link"
+msgstr ""
+
+#: ../inc/options.php:196
+msgid "Input your You Tube Channel URL here."
+msgstr ""
+
+#: ../inc/options.php:202
+msgid "Google Plus Link"
+msgstr ""
+
+#: ../inc/options.php:203
+msgid "Input your Google Plus URL here."
+msgstr ""
+
+#: ../inc/options.php:209
+msgid "Picassa Web Album Link"
+msgstr ""
+
+#: ../inc/options.php:210
+msgid "Input your Picassa URL here."
+msgstr ""
+
+#: ../inc/options.php:216
+msgid "Linked In Link"
+msgstr ""
+
+#: ../inc/options.php:217
+msgid "Input your Linked In URL here."
+msgstr ""
+
+#: ../inc/options.php:223
+msgid "Feed or Blog Link"
+msgstr ""
+
+#: ../inc/options.php:224
+msgid "Input your Feed or Blog URL here."
+msgstr ""
+
+#: ../page.php:20
+msgid "Pages:"
+msgstr ""
+
+#: ../page.php:28
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: ../search.php:12
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:17
+msgid "Search Term:"
+msgstr ""
+
+#: ../search.php:18
+msgid "Number of Results:"
+msgstr ""
+
+#: ../search.php:22
+msgid "Entry Date: "
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Search Text Here"
+msgstr ""
+
+#: ../searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar.php:19
+msgid "Meta"
+msgstr ""
